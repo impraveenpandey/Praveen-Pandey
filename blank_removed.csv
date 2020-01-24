@@ -1,0 +1,472 @@
+Emp id,Emp name,Gender,Fav website,Qualification,Experience,Ctc (in lakhs),Salary per month (in lakhs),Joining date,Department,Marital status,Living status,Father's name,Birth date,Nature
+23.0,"Kelly, Mr. James",male, twitter.com,mca,17.0,6.0,50000.0,2010-01-01,it,m,rented,"Roth, Miss. Sarah A",1978-05-01,good
+167.0,"Wilkes, Mrs. James (Ellen Needs)",female, facebook.com,mba,22.0,11.0,91666.66666666666,2010-01-02,marketing,um,own house,"Cacic, Miss. Manda",1978-05-02,bad
+97.0,"Myles, Mr. Thomas Francis",male, instagram,bca,1.0,18.0,150000.0,2010-01-03,it,um,official,"Sap, Mr. Julius",1978-05-03,normal
+217.0,"Wirz, Mr. Albert",male, facebook,b.tech,17.0,4.0,33333.33333333333,2010-01-04,it,m,rented,"Hee, Mr. Ling",1978-05-04,funny
+435.0,"Svensson, Mr. Johan Cervin",male, linkedin,ba,8.0,11.0,91666.66666666666,2010-01-06,accounts,um,official,"Franklin, Mr. Thomas Parham",1978-05-06,good
+211.0,"Connolly, Miss. Kate",female, twitter.com,ma,9.0,13.0,108333.33333333331,2010-01-07,hr,um,rented,"Goldsmith, Mr. Nathan",1978-05-07,bad
+391.0,"Caldwell, Mr. Albert Francis",male, facebook.com,phd,16.0,4.0,33333.33333333333,2010-01-08,head,d,own house,"Corbett, Mrs. Walter H (Irene Colvin)",1978-05-08,normal
+269.0,"Abrahim, Mrs. Joseph (Sophie Halaut Easu)",female, instagram,10th,19.0,6.0,50000.0,2010-01-09,worker,m,official,"Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)",1978-05-09,funny
+500.0,"Jones, Mr. Charles Cresson",male, linkedin,m.tech,8.0,20.0,166666.6666666667,2010-01-12,it,um,official,"Shaughnessy, Mr. Patrick",1978-05-12,bad
+13.0,"Snyder, Mrs. John Pillsbury (Nelle Stevenson)",female, twitter.com,be,4.0,10.0,83333.33333333334,2010-01-13,marketing,um,rented,"Bucknell, Mrs. William Robert (Emma Eliza Ward)",1978-05-13,normal
+215.0,"Howard, Mr. Benjamin",male, facebook.com,me,18.0,22.0,183333.33333333328,2010-01-14,it,m,own house,"Coutts, Mrs. William (Winnie Minnie"" Treanor)""",1978-05-14,funny
+115.0,"Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)",female, instagram,iit delhi,11.0,10.0,83333.33333333334,2010-01-15,it,um,official,"Smith, Mr. Lucien Philip",1978-05-15,aggressive
+311.0,"del Carlo, Mrs. Sebastiano (Argenia Genovesi)",female, facebook,iit mumbai,3.0,12.0,100000.0,2010-01-16,marketing,um,rented,"Pulbaum, Mr. Franz",1978-05-16,good
+267.0,"Keane, Mr. Daniel",male,twitter,iit roorkee,16.0,17.0,141666.6666666667,2010-01-17,accounts,um,own house,"Hocking, Miss. Ellen Nellie""""",1978-05-17,bad
+269.0,"Abrahim, Mrs. Joseph (Sophie Halaut Easu)",female, linkedin,10th,19.0,6.0,50000.0,2010-01-09,worker,m,official,"Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)",1978-05-09,funny
+263.0,"Rothschild, Mr. Martin",male, facebook.com,b.tech,6.0,24.0,200000.0,2010-01-21,worker,m,official,"Cor, Mr. Bartol",1978-05-21,good
+342.0,"Flegenheim, Mrs. Alfred (Antoinette)",female, facebook,ba,24.0,23.0,191666.66666666672,2010-01-23,it,um,own house,"Davison, Mr. Thomas Henry",1978-05-23,normal
+283.0,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",female, linkedin,phd,25.0,12.0,100000.0,2010-01-25,it,m,rented,"Dika, Mr. Mirko",1978-05-25,aggressive
+212.0,"Robins, Mr. Alexander A",male, twitter.com,10th,3.0,6.0,50000.0,2010-01-26,it,um,own house,"McCrae, Mr. Arthur Gordon",1978-05-26,good
+257.0,"Ostby, Miss. Helene Ragnhild",female, facebook.com,12th,11.0,8.0,66666.66666666666,2010-01-27,marketing,um,official,"Bjorklund, Mr. Ernst Herbert",1978-05-27,bad
+301.0,"Daher, Mr. Shedid",male, instagram,uneducated,15.0,15.0,125000.0,2010-01-28,accounts,um,rented,"Bradley, Miss. Bridget Delia",1978-05-28,normal
+286.0,"Brady, Mr. John Bertram",male, facebook,m.tech,18.0,15.0,125000.0,2010-01-29,hr,d,own house,"Ryerson, Master. John Borie",1978-05-29,funny
+109.0,"Samaan, Mr. Elias",male,twitter,be,0.0,18.0,150000.0,2010-01-30,head,m,official,"Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller)",1978-05-30,aggressive
+296.0,"Louch, Mr. Charles Alexander",male, linkedin,me,25.0,7.0,58333.33333333334,2010-01-31,worker,um,rented,"Burns, Miss. Mary Delia",1978-05-31,good
+21.0,"Jefferys, Mr. Clifford Thomas",male, twitter.com,iit delhi,5.0,20.0,166666.6666666667,2010-02-01,worker,m,own house,"Moore, Mr. Clarence Bloomfield",1978-06-01,bad
+285.0,"Dean, Mrs. Bertram (Eva Georgetta Light)",female, facebook.com,iit mumbai,18.0,18.0,150000.0,2010-02-02,senior level,um,official,"Tucker, Mr. Gilbert Milligan Jr",1978-06-02,normal
+342.0,"Johnston, Mrs. Andrew G (Elizabeth Lily"" Watson)""",female, instagram,iit roorkee,0.0,21.0,175000.0,2010-02-03,it,um,rented,"Fortune, Mrs. Mark (Mary McDougald)",1978-06-03,funny
+359.0,"Mock, Mr. Philipp Edmund",male, facebook,mca,11.0,19.0,158333.3333333333,2010-02-04,marketing,m,own house,"Mulvihill, Miss. Bertha E",1978-06-04,aggressive
+142.0,"Katavelas, Mr. Vassilios (Catavelas Vassilios"")""",male,twitter,mba,17.0,2.0,16666.666666666664,2010-02-05,it,um,official,"Minkoff, Mr. Lazar",1978-06-05,good
+130.0,"Roth, Miss. Sarah A",female, linkedin,bca,13.0,11.0,91666.66666666666,2010-02-06,it,um,rented,"Nieminen, Miss. Manta Josefina",1978-06-06,bad
+285.0,"Sap, Mr. Julius",male, twitter.com,bba,22.0,22.0,183333.33333333328,2010-02-08,accounts,d,official,"Geiger, Miss. Amalie",1978-06-08,funny
+173.0,"Hee, Mr. Ling",male, facebook.com,ba,19.0,15.0,125000.0,2010-02-09,hr,m,rented,"Keeping, Mr. Edwin",1978-06-09,aggressive
+474.0,"Karun, Mr. Franz",male, instagram,ma,2.0,5.0,41666.66666666667,2010-02-10,head,um,own house,"Miles, Mr. Frank",1978-06-10,good
+9.0,"Goldsmith, Mr. Nathan",male,twitter,10th,17.0,15.0,125000.0,2010-02-12,worker,m,rented,"Aldworth, Mr. Charles Augustus",1978-06-12,normal
+293.0,"Corbett, Mrs. Walter H (Irene Colvin)",female, linkedin,12th,23.0,17.0,141666.6666666667,2010-02-13,senior level,um,own house,"Doyle, Miss. Elizabeth",1978-06-13,funny
+471.0,"Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)",female, twitter.com,uneducated,24.0,14.0,116666.66666666669,2010-02-14,it,um,official,"Boulos, Master. Akar",1978-06-14,aggressive
+137.0,"Peltomaki, Mr. Nikolai Johannes",male, facebook.com,m.tech,16.0,7.0,58333.33333333334,2010-02-15,marketing,um,rented,"Straus, Mr. Isidor",1978-06-15,good
+417.0,"Chevre, Mr. Paul Romaine",male, instagram,be,1.0,4.0,33333.33333333333,2010-02-16,it,d,own house,"Case, Mr. Howard Brown",1978-06-16,bad
+246.0,"Shaughnessy, Mr. Patrick",male, facebook,me,3.0,21.0,175000.0,2010-02-17,it,m,official,"Demetri, Mr. Marinko",1978-06-17,normal
+196.0,"Bucknell, Mrs. William Robert (Emma Eliza Ward)",female,twitter,iit delhi,9.0,21.0,175000.0,2010-02-18,marketing,um,rented,"Lamb, Mr. John Joseph",1978-06-18,funny
+140.0,"Coutts, Mrs. William (Winnie Minnie"" Treanor)""",female, linkedin,iit mumbai,2.0,6.0,50000.0,2010-02-19,accounts,m,own house,"Khalil, Mr. Betros",1978-06-19,aggressive
+287.0,"Pulbaum, Mr. Franz",male, facebook.com,mca,5.0,11.0,91666.66666666666,2010-02-21,head,um,rented,"Badman, Miss. Emily Louisa",1978-06-21,bad
+280.0,"Hocking, Miss. Ellen Nellie""""",female, instagram,mba,19.0,14.0,116666.66666666669,2010-02-22,worker,m,own house,"O'Donoghue, Ms. Bridget",1978-06-22,normal
+430.0,"Fortune, Miss. Ethel Flora",female, facebook,bca,7.0,3.0,25000.0,2010-02-23,worker,um,official,"Wells, Master. Ralph Lester",1978-06-23,funny
+30.0,"Mangiavacchi, Mr. Serafino Emilio",male,twitter,b.tech,20.0,21.0,175000.0,2010-02-24,senior level,um,rented,"Dyker, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson)",1978-06-24,aggressive
+449.0,"Rice, Master. Albert",male, linkedin,bba,23.0,15.0,125000.0,2010-02-25,it,um,own house,"Pedersen, Mr. Olaf",1978-06-25,good
+156.0,"Cor, Mr. Bartol",male, twitter.com hello I love to use twitter and facebook this is my passion,ba,6.0,23.0,191666.66666666672,2010-02-26,marketing,d,official,"Davidson, Mrs. Thornton (Orian Hays)",1978-06-26,bad
+195.0,"Davison, Mr. Thomas Henry",male, facebook.com,phd,4.0,12.0,100000.0,2010-02-28,it,um,own house,"Birnbaum, Mr. Jakob",1978-06-28,funny
+492.0,"Chaudanson, Miss. Victorine",female, instagram,10th,15.0,6.0,50000.0,2010-03-01,marketing,m,official,"Tenglin, Mr. Gunnar Isidor",1978-06-29,aggressive
+488.0,"Dika, Mr. Mirko",male, facebook,12th,14.0,6.0,50000.0,2010-03-02,accounts,m,rented,"Cavendish, Mrs. Tyrell William (Julia Florence Siegel)",1978-06-30,good
+443.0,"McCrae, Mr. Arthur Gordon",male,twitter,uneducated,21.0,21.0,175000.0,2010-03-03,hr,um,own house,"Makinen, Mr. Kalle Edvard",1978-07-01,bad
+284.0,"Bjorklund, Mr. Ernst Herbert",male, linkedin,m.tech,20.0,25.0,208333.33333333328,2010-03-04,head,um,official,"Braf, Miss. Elin Ester Maria",1978-07-02,normal
+413.0,"Bradley, Miss. Bridget Delia",female, twitter.com,be,22.0,6.0,50000.0,2010-03-05,worker,m,rented,"Nancarrow, Mr. William Henry",1978-07-03,funny
+50.0,"Ryerson, Master. John Borie",male, facebook.com,me,6.0,5.0,41666.66666666667,2010-03-06,worker,um,rented,"Stengel, Mrs. Charles Emil Henry (Annie May Morris)",1978-07-04,aggressive
+283.0,"Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller)",female, instagram,iit delhi,2.0,18.0,150000.0,2010-03-07,senior level,um,own house,"Weisz, Mr. Leopold",1978-07-05,good
+467.0,"Burns, Miss. Mary Delia",female, facebook,iit mumbai,23.0,11.0,91666.66666666666,2010-03-08,it,um,official,"Foley, Mr. William",1978-07-06,bad
+321.0,"Moore, Mr. Clarence Bloomfield",male,twitter,iit roorkee,14.0,2.0,16666.666666666664,2010-03-09,marketing,d,rented,"Johansson Palmquist, Mr. Oskar Leander",1978-07-07,normal
+257.0,"Tucker, Mr. Gilbert Milligan Jr",male, linkedin,mca,17.0,17.0,141666.6666666667,2010-03-10,it,m,own house,"Thomas, Mrs. Alexander (Thamine Thelma"")""",1978-07-08,funny
+141.0,"Fortune, Mrs. Mark (Mary McDougald)",female, twitter.com,mba,8.0,7.0,58333.33333333334,2010-03-11,it,um,official,"Holthen, Mr. Johan Martin",1978-07-09,aggressive
+216.0,"Mulvihill, Miss. Bertha E",female, facebook.com,bca,13.0,21.0,175000.0,2010-03-12,marketing,m,rented,"Buckley, Mr. Daniel",1978-07-10,good
+179.0,"Nieminen, Miss. Manta Josefina",female, facebook,bba,17.0,23.0,191666.66666666672,2010-03-14,hr,um,official,"Willer, Mr. Aaron (Abi Weller"")""",1978-07-12,normal
+36.0,"Ovies y Rodriguez, Mr. Servando",male,twitter,ba,13.0,19.0,158333.3333333333,2010-03-15,head,m,rented,"Swane, Mr. George",1978-07-13,funny
+17.0,"Keeping, Mr. Edwin",male, twitter.com hello I love to use twitter and facebook this is my passion,phd,15.0,15.0,125000.0,2010-03-17,worker,um,official,"Shine, Miss. Ellen Natalia",1978-07-15,good
+147.0,"Miles, Mr. Frank",male, twitter.com,10th,18.0,9.0,75000.0,2010-03-18,senior level,um,rented,"Evans, Miss. Edith Corse",1978-07-16,bad
+167.0,"Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)",female, facebook.com,12th,8.0,12.0,100000.0,2010-03-19,it,d,own house,"Buckley, Miss. Katherine",1978-07-17,normal
+36.0,"Ovies y Rodriguez, Mr. Servando",male, instagram,ba,13.0,19.0,158333.3333333333,2010-03-15,head,m,rented,"Swane, Mr. George",1978-07-13,funny
+164.0,"Doyle, Miss. Elizabeth",female, facebook,m.tech,6.0,18.0,150000.0,2010-03-21,it,um,rented,"Chronopoulos, Mr. Demetrios",1978-07-19,aggressive
+87.0,"Boulos, Master. Akar",male,twitter,be,6.0,13.0,108333.33333333331,2010-03-22,it,m,own house,"Thomas, Mr. John",1978-07-20,good
+338.0,"Straus, Mr. Isidor",male, linkedin,me,10.0,20.0,166666.6666666667,2010-03-23,marketing,m,official,"Sandstrom, Miss. Beatrice Irene",1978-07-21,bad
+351.0,"Case, Mr. Howard Brown",male, twitter.com,iit delhi,17.0,12.0,100000.0,2010-03-24,accounts,um,rented,"Beattie, Mr. Thomson",1978-07-22,normal
+160.0,"Lamb, Mr. John Joseph",male, instagram,iit roorkee,21.0,8.0,66666.66666666666,2010-03-26,head,m,official,"Watt, Miss. Bertha J",1978-07-24,aggressive
+194.0,"Khalil, Mr. Betros",male, facebook,mca,12.0,15.0,125000.0,2010-03-27,worker,um,rented,"Kiernan, Mr. John",1978-07-25,good
+69.0,"Barry, Miss. Julia",female,twitter,mba,11.0,17.0,141666.6666666667,2010-03-28,worker,um,rented,"Schabert, Mrs. Paul (Emma Mock)",1978-07-26,bad
+385.0,"Badman, Miss. Emily Louisa",female, linkedin,bca,25.0,25.0,208333.33333333328,2010-03-29,senior level,um,own house,"Carver, Mr. Alfred John",1978-07-27,normal
+228.0,"Wells, Master. Ralph Lester",male, facebook.com,bba,13.0,11.0,91666.66666666666,2010-03-31,marketing,m,rented,"Cribb, Miss. Laura Alice",1978-07-29,aggressive
+12.0,"Dyker, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson)",female, instagram,ba,2.0,17.0,141666.6666666667,2010-04-01,it,um,own house,"Brobeck, Mr. Karl Rudolf",1978-07-30,good
+56.0,"Pedersen, Mr. Olaf",male, facebook,ma,22.0,16.0,133333.3333333333,2010-04-02,it,m,official,"McCoy, Miss. Alicia",1978-07-31,bad
+198.0,"Davidson, Mrs. Thornton (Orian Hays)",female,twitter,phd,25.0,4.0,33333.33333333333,2010-04-03,marketing,um,rented,"Bowenur, Mr. Solomon",1978-08-01,normal
+314.0,"Guest, Mr. Robert",male, linkedin,10th,1.0,25.0,208333.33333333328,2010-04-04,accounts,um,own house,"Petersen, Mr. Marius",1978-08-02,funny
+283.0,"Birnbaum, Mr. Jakob",male, twitter.com hello I love to use twitter and facebook this is my passion,12th,4.0,25.0,208333.33333333328,2010-04-05,hr,m,official,"Spinner, Mr. Henry John",1978-08-03,aggressive
+68.0,"Tenglin, Mr. Gunnar Isidor",male, twitter.com,uneducated,10.0,18.0,150000.0,2010-04-06,head,um,rented,"Gracie, Col. Archibald IV",1978-08-04,good
+338.0,"Cavendish, Mrs. Tyrell William (Julia Florence Siegel)",female, facebook.com,m.tech,17.0,23.0,191666.66666666672,2010-04-07,worker,um,own house,"Lefebre, Mrs. Frank (Frances)",1978-08-05,bad
+309.0,"Makinen, Mr. Kalle Edvard",male, instagram,be,21.0,4.0,33333.33333333333,2010-04-08,worker,um,official,"Thomas, Mr. Charles P",1978-08-06,normal
+312.0,"Braf, Miss. Elin Ester Maria",female, facebook,me,25.0,14.0,116666.66666666669,2010-04-09,senior level,d,rented,"Dintcheff, Mr. Valtcho",1978-08-07,funny
+156.0,"Nancarrow, Mr. William Henry",male,twitter,iit delhi,17.0,14.0,116666.66666666669,2010-04-10,it,m,own house,"Carlsson, Mr. Carl Robert",1978-08-08,aggressive
+105.0,"Stengel, Mrs. Charles Emil Henry (Annie May Morris)",female, linkedin,iit mumbai,2.0,17.0,141666.6666666667,2010-04-11,marketing,um,official,"Zakarian, Mr. Mapriededer",1978-08-09,good
+428.0,"Weisz, Mr. Leopold",male, twitter.com,iit roorkee,5.0,11.0,91666.66666666666,2010-04-12,it,um,rented,"Schmidt, Mr. August",1978-08-10,bad
+55.0,"Foley, Mr. William",male, facebook.com,mca,17.0,24.0,200000.0,2010-04-13,it,m,own house,"Drapkin, Miss. Jennie",1978-08-11,normal
+440.0,"Johansson Palmquist, Mr. Oskar Leander",male, instagram,mba,20.0,18.0,150000.0,2010-04-14,marketing,um,official,"Goodwin, Mr. Charles Frederick",1978-08-12,funny
+392.0,"Thomas, Mrs. Alexander (Thamine Thelma"")""",female, facebook,bca,20.0,18.0,150000.0,2010-04-15,accounts,um,rented,"Goodwin, Miss. Jessie Allis",1978-08-13,aggressive
+386.0,"Buckley, Mr. Daniel",male, linkedin,bba,21.0,5.0,41666.66666666667,2010-04-17,head,d,official,"Ryerson, Mr. Arthur Larned",1978-08-15,bad
+94.0,"Ryan, Mr. Edward",male, twitter.com,ba,5.0,9.0,75000.0,2010-04-18,worker,m,rented,"Beauchamp, Mr. Henry James",1978-08-16,normal
+51.0,"Willer, Mr. Aaron (Abi Weller"")""",male, facebook.com,ma,16.0,18.0,150000.0,2010-04-19,worker,um,own house,"Lindeberg-Lind, Mr. Erik Gustaf (Mr Edward Lingrey"")""",1978-08-17,funny
+167.0,"Swane, Mr. George",male, instagram,phd,11.0,5.0,41666.66666666667,2010-04-20,senior level,m,official,"Vander Planke, Mr. Julius",1978-08-18,aggressive
+229.0,"Stanton, Mr. Samuel Ward",male, facebook,10th,9.0,16.0,133333.3333333333,2010-04-21,it,um,rented,"Hilliard, Mr. Herbert Henry",1978-08-19,good
+16.0,"Shine, Miss. Ellen Natalia",female,twitter,12th,6.0,8.0,66666.66666666666,2010-04-22,marketing,um,own house,"Davies, Mr. Evan",1978-08-20,bad
+100.0,"Evans, Miss. Edith Corse",female, linkedin,uneducated,21.0,4.0,33333.33333333333,2010-04-23,it,m,official,"Crafton, Mr. John Bertram",1978-08-21,normal
+444.0,"Buckley, Miss. Katherine",female, twitter.com hello I love to use twitter and facebook this is my passion,m.tech,23.0,10.0,83333.33333333334,2010-04-24,it,m,rented,"Lahtinen, Rev. William",1978-08-22,funny
+142.0,"Straus, Mrs. Isidor (Rosalie Ida Blun)",female, twitter.com,be,20.0,20.0,166666.6666666667,2010-04-25,marketing,um,own house,"Earnshaw, Mrs. Boulton (Olive Potter)",1978-08-23,aggressive
+172.0,"Chronopoulos, Mr. Demetrios",male, facebook.com,me,10.0,15.0,125000.0,2010-04-26,accounts,um,official,"Matinoff, Mr. Nicola",1978-08-24,good
+6.0,"Thomas, Mr. John",male, instagram,iit delhi,10.0,17.0,141666.6666666667,2010-04-27,hr,m,rented,"Storey, Mr. Thomas",1978-08-25,bad
+396.0,"Sandstrom, Miss. Beatrice Irene",female, facebook,iit mumbai,3.0,17.0,141666.6666666667,2010-04-28,head,um,own house,"Klasen, Mrs. (Hulda Kristina Eugenia Lofqvist)",1978-08-26,normal
+463.0,"Beattie, Mr. Thomson",male,twitter,iit roorkee,8.0,6.0,50000.0,2010-04-29,worker,um,official,"Asplund, Master. Filip Oscar",1978-08-27,funny
+81.0,"Chapman, Mrs. John Henry (Sara Elizabeth Lawry)",female, linkedin,mca,13.0,12.0,100000.0,2010-04-30,worker,um,rented,"Duquemin, Mr. Joseph",1978-08-28,aggressive
+102.0,"Watt, Miss. Bertha J",female, twitter.com,mba,6.0,19.0,158333.3333333333,2010-05-01,senior level,d,own house,"Bird, Miss. Ellen",1978-08-29,good
+280.0,"Kiernan, Mr. John",male, facebook.com,bca,1.0,19.0,158333.3333333333,2010-05-02,it,m,official,"Lundin, Miss. Olga Elida",1978-08-30,bad
+79.0,"Schabert, Mrs. Paul (Emma Mock)",female, instagram,b.tech,14.0,13.0,108333.33333333331,2010-05-03,marketing,um,rented,"Borebank, Mr. John James",1978-08-31,normal
+106.0,"Carver, Mr. Alfred John",male, facebook,bba,17.0,21.0,175000.0,2010-05-04,it,m,own house,"Peacock, Mrs. Benjamin (Edith Nile)",1978-09-01,funny
+477.0,"Kennedy, Mr. John",male,twitter,ba,23.0,21.0,175000.0,2010-05-05,it,um,official,"Smyth, Miss. Julia",1978-09-02,aggressive
+105.0,"Cribb, Miss. Laura Alice",female, linkedin,ma,15.0,25.0,208333.33333333328,2010-05-06,marketing,um,rented,"Touma, Master. Georges Youssef",1978-09-03,good
+448.0,"Brobeck, Mr. Karl Rudolf",male, twitter.com,phd,10.0,25.0,208333.33333333328,2010-05-07,accounts,m,own house,"Wright, Miss. Marion",1978-09-04,bad
+383.0,"McCoy, Miss. Alicia",female, facebook.com,10th,6.0,12.0,100000.0,2010-05-08,hr,um,official,"Pearce, Mr. Ernest",1978-09-05,normal
+254.0,"Bowenur, Mr. Solomon",male, instagram,12th,25.0,18.0,150000.0,2010-05-09,head,um,rented,"Peruschitz, Rev. Joseph Maria",1978-09-06,funny
+148.0,"Petersen, Mr. Marius",male, facebook,uneducated,13.0,25.0,208333.33333333328,2010-05-10,worker,um,own house,"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",1978-09-07,aggressive
+54.0,"Spinner, Mr. Henry John",male,twitter,m.tech,13.0,16.0,133333.3333333333,2010-05-11,worker,d,official,"Brandeis, Mr. Emil",1978-09-08,good
+303.0,"Gracie, Col. Archibald IV",male, linkedin,be,4.0,24.0,200000.0,2010-05-12,senior level,m,rented,"Ford, Mr. Edward Watson",1978-09-09,bad
+51.0,"Thomas, Mr. Charles P",male, twitter.com,iit delhi,25.0,7.0,58333.33333333334,2010-05-14,marketing,m,official,"Hellstrom, Miss. Hilda Maria",1978-09-11,funny
+337.0,"Dintcheff, Mr. Valtcho",male, facebook.com,iit mumbai,3.0,16.0,133333.3333333333,2010-05-15,it,m,rented,"Lithman, Mr. Simon",1978-09-12,aggressive
+138.0,"Carlsson, Mr. Carl Robert",male, instagram,iit roorkee,13.0,8.0,66666.66666666666,2010-05-16,it,um,own house,"Zakarian, Mr. Ortin",1978-09-13,good
+154.0,"Schmidt, Mr. August",male,twitter,mba,19.0,14.0,116666.66666666669,2010-05-18,accounts,m,rented,"Torfa, Mr. Assad",1978-09-15,normal
+2.0,"Drapkin, Miss. Jennie",female, linkedin,bca,11.0,11.0,91666.66666666666,2010-05-19,hr,um,own house,"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",1978-09-16,funny
+304.0,"Goodwin, Mr. Charles Frederick",male, twitter.com,b.tech,25.0,9.0,75000.0,2010-05-20,head,um,official,"Brown, Miss. Edith Eileen",1978-09-17,aggressive
+416.0,"Goodwin, Miss. Jessie Allis",female, facebook.com,bba,9.0,12.0,100000.0,2010-05-21,worker,um,rented,"Sincock, Miss. Maude",1978-09-18,good
+155.0,"Daniels, Miss. Sarah",female, instagram,ba,7.0,13.0,108333.33333333331,2010-05-22,worker,d,own house,"Stengel, Mr. Charles Emil Henry",1978-09-19,bad
+231.0,"Ryerson, Mr. Arthur Larned",male, facebook,ma,11.0,7.0,58333.33333333334,2010-05-23,senior level,m,official,"Becker, Mrs. Allen Oliver (Nellie E Baumgardner)",1978-09-20,normal
+479.0,"Beauchamp, Mr. Henry James",male,twitter,phd,14.0,10.0,83333.33333333334,2010-05-24,it,um,rented,"Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)",1978-09-21,funny
+485.0,"Lindeberg-Lind, Mr. Erik Gustaf (Mr Edward Lingrey"")""",male, linkedin,10th,1.0,6.0,50000.0,2010-05-25,marketing,m,own house,"McCrie, Mr. James Matthew",1978-09-22,aggressive
+208.0,"Vander Planke, Mr. Julius",male, twitter.com,12th,19.0,10.0,83333.33333333334,2010-05-26,it,um,official,"Compton, Mr. Alexander Taylor Jr",1978-09-23,good
+382.0,"Hilliard, Mr. Herbert Henry",male, facebook.com,uneducated,18.0,20.0,166666.6666666667,2010-05-27,it,um,rented,"Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)",1978-09-24,bad
+221.0,"Davies, Mr. Evan",male, instagram,m.tech,12.0,15.0,125000.0,2010-05-28,marketing,m,own house,"Lane, Mr. Patrick",1978-09-25,normal
+271.0,"Crafton, Mr. John Bertram",male, facebook,be,7.0,11.0,91666.66666666666,2010-05-29,accounts,um,official,"Douglas, Mrs. Frederick Charles (Mary Helene Baxter)",1978-09-26,funny
+11.0,"Lahtinen, Rev. William",male,twitter,me,17.0,21.0,175000.0,2010-05-30,hr,um,rented,"Maybery, Mr. Frank Hubert",1978-09-27,aggressive
+290.0,"Earnshaw, Mrs. Boulton (Olive Potter)",female, linkedin,iit delhi,12.0,18.0,150000.0,2010-05-31,head,um,rented,"Phillips, Miss. Alice Frances Louisa",1978-09-28,good
+220.0,"Matinoff, Mr. Nicola",male, twitter.com hello I love to use twitter and facebook this is my passion,iit mumbai,13.0,23.0,191666.66666666672,2010-06-01,worker,d,own house,"Davies, Mr. Joseph",1978-09-29,bad
+173.0,"Storey, Mr. Thomas",male, twitter.com,iit roorkee,22.0,13.0,108333.33333333331,2010-06-02,worker,m,official,"Sage, Miss. Ada",1978-09-30,normal
+269.0,"Klasen, Mrs. (Hulda Kristina Eugenia Lofqvist)",female, facebook.com,mca,1.0,23.0,191666.66666666672,2010-06-03,senior level,um,rented,"Veal, Mr. James",1978-10-01,funny
+278.0,"Asplund, Master. Filip Oscar",male, instagram,mba,24.0,4.0,33333.33333333333,2010-06-04,it,um,own house,"Angle, Mr. William A",1978-10-02,aggressive
+300.0,"Duquemin, Mr. Joseph",male, facebook,bca,3.0,16.0,133333.3333333333,2010-06-05,marketing,m,official,"Salomon, Mr. Abraham L",1978-10-03,good
+402.0,"Bird, Miss. Ellen",female,twitter,b.tech,7.0,20.0,166666.6666666667,2010-06-06,it,um,rented,"van Billiard, Master. Walter John",1978-10-04,bad
+176.0,"Lundin, Miss. Olga Elida",female, linkedin,bba,13.0,5.0,41666.66666666667,2010-06-07,it,um,own house,"Lingane, Mr. John",1978-10-05,normal
+166.0,"Borebank, Mr. John James",male, twitter.com,ba,17.0,19.0,158333.3333333333,2010-06-08,marketing,um,official,"Drew, Master. Marshall Brines",1978-10-06,funny
+403.0,"Peacock, Mrs. Benjamin (Edith Nile)",female, facebook.com,ma,13.0,11.0,91666.66666666666,2010-06-09,accounts,d,rented,"Karlsson, Mr. Julius Konrad Eugen",1978-10-07,aggressive
+436.0,"Smyth, Miss. Julia",female, instagram,phd,16.0,9.0,75000.0,2010-06-10,hr,m,own house,"Spedden, Master. Robert Douglas",1978-10-08,good
+350.0,"Touma, Master. Georges Youssef",male, facebook,10th,17.0,9.0,75000.0,2010-06-11,head,um,official,"Nilsson, Miss. Berta Olivia",1978-10-09,bad
+153.0,"Wright, Miss. Marion",female,twitter,12th,10.0,5.0,41666.66666666667,2010-06-12,worker,m,rented,"Baimbrigge, Mr. Charles Robert",1978-10-10,normal
+146.0,"Pearce, Mr. Ernest",male, linkedin,uneducated,7.0,18.0,150000.0,2010-06-13,worker,um,own house,"Rasmussen, Mrs. (Lena Jacobsen Solvang)",1978-10-11,funny
+107.0,"Peruschitz, Rev. Joseph Maria",male, twitter.com,m.tech,2.0,11.0,91666.66666666666,2010-06-14,senior level,um,official,"Murphy, Miss. Nora",1978-10-12,aggressive
+118.0,"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",female, facebook.com,be,20.0,4.0,33333.33333333333,2010-06-15,it,m,rented,"Danbom, Master. Gilbert Sigvard Emanuel",1978-10-13,good
+77.0,"Brandeis, Mr. Emil",male, instagram,me,21.0,3.0,25000.0,2010-06-16,marketing,um,own house,"Astor, Col. John Jacob",1978-10-14,bad
+250.0,"Ford, Mr. Edward Watson",male, facebook,iit delhi,10.0,11.0,91666.66666666666,2010-06-17,it,um,official,"Quick, Miss. Winifred Vera",1978-10-15,normal
+143.0,"Cassebeer, Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick)",female,twitter,iit mumbai,17.0,5.0,41666.66666666667,2010-06-18,it,um,rented,"Andrew, Mr. Frank Thomas",1978-10-16,funny
+362.0,"Hellstrom, Miss. Hilda Maria",female, linkedin,iit roorkee,16.0,6.0,50000.0,2010-06-19,marketing,d,own house,"Omont, Mr. Alfred Fernand",1978-10-17,aggressive
+333.0,"Zakarian, Mr. Ortin",male, twitter.com,mba,3.0,3.0,25000.0,2010-06-21,hr,um,rented,"Collett, Mr. Sidney C Stuart",1978-10-19,bad
+38.0,"Dyker, Mr. Adolf Fredrik",male, facebook.com,bca,20.0,7.0,58333.33333333334,2010-06-22,head,m,rented,"Rosenbaum, Miss. Edith Louise",1978-10-20,normal
+221.0,"Torfa, Mr. Assad",male, instagram,b.tech,17.0,3.0,25000.0,2010-06-23,worker,m,own house,"Delalic, Mr. Redjo",1978-10-21,funny
+499.0,"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",male, facebook,bba,8.0,9.0,75000.0,2010-06-24,worker,um,official,"Andersen, Mr. Albert Karvin",1978-10-22,aggressive
+458.0,"Brown, Miss. Edith Eileen",female,twitter,ba,22.0,23.0,191666.66666666672,2010-06-25,senior level,um,rented,"Finoli, Mr. Luigi",1978-10-23,good
+351.0,"Stengel, Mr. Charles Emil Henry",male, twitter.com,phd,6.0,25.0,208333.33333333328,2010-06-27,marketing,um,official,"Howard, Mrs. Benjamin (Ellen Truelove Arman)",1978-10-25,normal
+124.0,"Becker, Mrs. Allen Oliver (Nellie E Baumgardner)",female, facebook.com,10th,19.0,15.0,125000.0,2010-06-28,it,um,rented,"Andersson, Miss. Ida Augusta Margareta",1978-10-26,funny
+276.0,"Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)",female, instagram,12th,23.0,8.0,66666.66666666666,2010-06-29,it,um,own house,"Head, Mr. Christopher",1978-10-27,aggressive
+253.0,"McCrie, Mr. James Matthew",male, facebook,uneducated,24.0,19.0,158333.3333333333,2010-06-30,marketing,d,official,"Mahon, Miss. Bridget Delia",1978-10-28,good
+246.0,"Compton, Mr. Alexander Taylor Jr",male,twitter,m.tech,16.0,6.0,50000.0,2010-07-01,accounts,m,rented,"Wick, Mr. George Dennick",1978-10-29,bad
+58.0,"Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)",female, linkedin,be,16.0,16.0,133333.3333333333,2010-07-02,hr,um,own house,"Widener, Mrs. George Dunton (Eleanor Elkins)",1978-10-30,normal
+399.0,"Lane, Mr. Patrick",male, twitter.com,me,2.0,17.0,141666.6666666667,2010-07-03,head,m,official,"Thomson, Mr. Alexander Morrison",1978-10-31,funny
+125.0,"Douglas, Mrs. Frederick Charles (Mary Helene Baxter)",female, facebook.com,iit delhi,5.0,2.0,16666.666666666664,2010-07-04,worker,um,rented,"Duran y More, Miss. Florentina",1978-11-01,aggressive
+63.0,"Maybery, Mr. Frank Hubert",male, instagram,iit mumbai,8.0,22.0,183333.33333333328,2010-07-05,worker,um,own house,"Reynolds, Mr. Harold J",1978-11-02,good
+438.0,"Phillips, Miss. Alice Frances Louisa",female, facebook,iit roorkee,1.0,2.0,16666.666666666664,2010-07-06,senior level,m,official,"Cook, Mrs. (Selena Rogers)",1978-11-03,bad
+395.0,"Davies, Mr. Joseph",male,twitter,mca,5.0,21.0,175000.0,2010-07-07,it,um,rented,"Karlsson, Mr. Einar Gervasius",1978-11-04,normal
+370.0,"Sage, Miss. Ada",female, linkedin,mba,21.0,4.0,33333.33333333333,2010-07-08,marketing,um,own house,"Candee, Mrs. Edward (Helen Churchill Hungerford)",1978-11-05,funny
+473.0,"Veal, Mr. James",male, twitter.com hello I love to use twitter and facebook this is my passion,bca,12.0,22.0,183333.33333333328,2010-07-09,it,um,official,"Moubarek, Mrs. George (Omine Amenia"" Alexander)""",1978-11-06,aggressive
+451.0,"Angle, Mr. William A",male, twitter.com,b.tech,18.0,10.0,83333.33333333334,2010-07-10,it,d,rented,"Asplund, Mr. Johan Charles",1978-11-07,good
+38.0,"Salomon, Mr. Abraham L",male, facebook.com,bba,6.0,2.0,16666.666666666664,2010-07-11,marketing,m,own house,"McNeill, Miss. Bridget",1978-11-08,bad
+453.0,"van Billiard, Master. Walter John",male, instagram,ba,19.0,4.0,33333.33333333333,2010-07-12,accounts,um,official,"Everett, Mr. Thomas James",1978-11-09,normal
+212.0,"Lingane, Mr. John",male, facebook,ma,20.0,17.0,141666.6666666667,2010-07-13,hr,m,rented,"Hocking, Mr. Samuel James Metcalfe",1978-11-10,funny
+65.0,"Drew, Master. Marshall Brines",male,twitter,phd,12.0,17.0,141666.6666666667,2010-07-14,head,m,own house,"Sweet, Mr. George Frederick",1978-11-11,aggressive
+86.0,"Karlsson, Mr. Julius Konrad Eugen",male, linkedin,10th,24.0,7.0,58333.33333333334,2010-07-15,worker,um,official,"Willard, Miss. Constance",1978-11-12,good
+296.0,"Spedden, Master. Robert Douglas",male, twitter.com,12th,20.0,14.0,116666.66666666669,2010-07-16,worker,um,rented,"Wiklund, Mr. Karl Johan",1978-11-13,bad
+232.0,"Nilsson, Miss. Berta Olivia",female, facebook.com,uneducated,9.0,5.0,41666.66666666667,2010-07-17,senior level,m,own house,"Linehan, Mr. Michael",1978-11-14,normal
+462.0,"Baimbrigge, Mr. Charles Robert",male, instagram,m.tech,4.0,4.0,33333.33333333333,2010-07-18,it,um,official,"Cumings, Mr. John Bradley",1978-11-15,funny
+20.0,"Rasmussen, Mrs. (Lena Jacobsen Solvang)",female, facebook,be,21.0,9.0,75000.0,2010-07-19,marketing,um,rented,"Vendel, Mr. Olof Edvin",1978-11-16,aggressive
+135.0,"Murphy, Miss. Nora",female,twitter,me,2.0,22.0,183333.33333333328,2010-07-20,it,um,own house,"Warren, Mr. Frank Manley",1978-11-17,good
+204.0,"Danbom, Master. Gilbert Sigvard Emanuel",male, linkedin,iit delhi,14.0,22.0,183333.33333333328,2010-07-21,it,d,official,"Baccos, Mr. Raffull",1978-11-18,bad
+167.0,"Astor, Col. John Jacob",male, twitter.com,iit mumbai,24.0,11.0,91666.66666666666,2010-07-22,marketing,m,rented,"Hiltunen, Miss. Marta",1978-11-19,normal
+172.0,"Quick, Miss. Winifred Vera",female, facebook.com,iit roorkee,4.0,2.0,16666.666666666664,2010-07-23,accounts,um,own house,"Douglas, Mrs. Walter Donald (Mahala Dutton)",1978-11-20,funny
+269.0,"Andrew, Mr. Frank Thomas",male, instagram,mca,11.0,16.0,133333.3333333333,2010-07-24,hr,m,official,"Lindstrom, Mrs. Carl Johan (Sigrid Posse)",1978-11-21,aggressive
+354.0,"Omont, Mr. Alfred Fernand",male, facebook,mba,24.0,16.0,133333.3333333333,2010-07-25,head,um,rented,"Christy, Mrs. (Alice Frances)",1978-11-22,good
+147.0,"McGowan, Miss. Katherine",female,twitter,bca,16.0,6.0,50000.0,2010-07-26,worker,um,own house,"Spedden, Mr. Frederic Oakley",1978-11-23,bad
+463.0,"Collett, Mr. Sidney C Stuart",male, linkedin,b.tech,23.0,4.0,33333.33333333333,2010-07-27,worker,m,official,"Hyman, Mr. Abraham",1978-11-24,normal
+134.0,"Rosenbaum, Miss. Edith Louise",female, twitter.com hello I love to use twitter and facebook this is my passion,bba,6.0,13.0,108333.33333333331,2010-07-28,senior level,um,rented,"Johnston, Master. William Arthur Willie""""",1978-11-25,funny
+479.0,"Delalic, Mr. Redjo",male, twitter.com,ba,18.0,13.0,108333.33333333331,2010-07-29,it,um,own house,"Kenyon, Mr. Frederick R",1978-11-26,aggressive
+131.0,"Finoli, Mr. Luigi",male, instagram,phd,1.0,12.0,100000.0,2010-07-31,it,d,rented,"Drew, Mr. James Vivian",1978-11-28,bad
+38.0,"Deacon, Mr. Percy William",male, facebook,10th,2.0,16.0,133333.3333333333,2010-08-01,it,m,own house,"Hold, Mrs. Stephen (Annie Margaret Hill)",1978-11-29,normal
+27.0,"Howard, Mrs. Benjamin (Ellen Truelove Arman)",female,twitter,12th,24.0,20.0,166666.6666666667,2010-08-02,marketing,um,official,"Khalil, Mrs. Betros (Zahie Maria"" Elias)""",1978-11-30,funny
+465.0,"Andersson, Miss. Ida Augusta Margareta",female, linkedin,uneducated,8.0,14.0,116666.66666666669,2010-08-03,accounts,um,rented,"West, Miss. Barbara J",1978-12-01,aggressive
+35.0,"Head, Mr. Christopher",male, twitter.com,m.tech,7.0,14.0,116666.66666666669,2010-08-04,hr,m,own house,"Abrahamsson, Mr. Abraham August Johannes",1978-12-02,good
+359.0,"Mahon, Miss. Bridget Delia",female, facebook.com,be,10.0,12.0,100000.0,2010-08-05,head,um,official,"Clark, Mr. Walter Miller",1978-12-03,bad
+101.0,"Wick, Mr. George Dennick",male, instagram,me,24.0,7.0,58333.33333333334,2010-08-06,worker,um,rented,"Salander, Mr. Karl Johan",1978-12-04,normal
+230.0,"Widener, Mrs. George Dunton (Eleanor Elkins)",female, facebook,iit delhi,19.0,2.0,16666.666666666664,2010-08-07,worker,um,own house,"Wenzel, Mr. Linhart",1978-12-05,funny
+220.0,"Thomson, Mr. Alexander Morrison",male,twitter,iit mumbai,13.0,3.0,25000.0,2010-08-08,senior level,d,official,"MacKay, Mr. George William",1978-12-06,aggressive
+338.0,"Duran y More, Miss. Florentina",female, linkedin,iit roorkee,9.0,16.0,133333.3333333333,2010-08-09,it,m,rented,"Mahon, Mr. John",1978-12-07,good
+31.0,"Reynolds, Mr. Harold J",male, twitter.com,mca,2.0,8.0,66666.66666666666,2010-08-10,marketing,um,own house,"Niklasson, Mr. Samuel",1978-12-08,bad
+293.0,"Cook, Mrs. (Selena Rogers)",female, facebook.com,mba,12.0,3.0,25000.0,2010-08-11,it,m,official,"Bentham, Miss. Lilian W",1978-12-09,normal
+486.0,"Karlsson, Mr. Einar Gervasius",male, instagram,bca,24.0,2.0,16666.666666666664,2010-08-12,it,um,rented,"Midtsjo, Mr. Karl Albert",1978-12-10,funny
+339.0,"Candee, Mrs. Edward (Helen Churchill Hungerford)",female, facebook,b.tech,10.0,20.0,166666.6666666667,2010-08-13,marketing,um,own house,"de Messemaeker, Mr. Guillaume Joseph",1978-12-11,aggressive
+225.0,"Moubarek, Mrs. George (Omine Amenia"" Alexander)""",female,twitter,bba,5.0,11.0,91666.66666666666,2010-08-14,accounts,m,official,"Nilsson, Mr. August Ferdinand",1978-12-12,good
+167.0,"Asplund, Mr. Johan Charles",male, linkedin,ba,21.0,16.0,133333.3333333333,2010-08-15,hr,m,rented,"Wells, Mrs. Arthur Henry (Addie"" Dart Trevaskis)""",1978-12-13,bad
+478.0,"McNeill, Miss. Bridget",female, twitter.com hello I love to use twitter and facebook this is my passion,ma,24.0,11.0,91666.66666666666,2010-08-16,head,um,own house,"Klasen, Miss. Gertrud Emilia",1978-12-14,normal
+452.0,"Everett, Mr. Thomas James",male, facebook,phd,25.0,11.0,91666.66666666666,2010-08-17,worker,um,official,"Portaluppi, Mr. Emilio Ilario Giuseppe",1978-12-15,funny
+105.0,"Sweet, Mr. George Frederick",male, linkedin,12th,19.0,24.0,200000.0,2010-08-19,senior level,um,own house,"Chisholm, Mr. Roderick Robert Crispin",1978-12-17,good
+265.0,"Willard, Miss. Constance",female, twitter.com hello I love to use twitter and facebook this is my passion,uneducated,0.0,2.0,16666.666666666664,2010-08-20,it,um,official,"Warren, Mr. Charles William",1978-12-18,bad
+264.0,"Wiklund, Mr. Karl Johan",male, twitter.com,m.tech,6.0,20.0,166666.6666666667,2010-08-21,marketing,um,rented,"Howard, Miss. May Elizabeth",1978-12-19,normal
+136.0,"Linehan, Mr. Michael",male, facebook.com,be,23.0,3.0,25000.0,2010-08-22,it,d,own house,"Pokrnic, Mr. Mate",1978-12-20,funny
+291.0,"Cumings, Mr. John Bradley",male, instagram,me,6.0,18.0,150000.0,2010-08-23,it,m,official,"McCaffry, Mr. Thomas Francis",1978-12-21,aggressive
+343.0,"Vendel, Mr. Olof Edvin",male, facebook,iit delhi,14.0,23.0,191666.66666666672,2010-08-24,marketing,um,rented,"Fox, Mr. Patrick",1978-12-22,good
+252.0,"Warren, Mr. Frank Manley",male,twitter,iit mumbai,7.0,13.0,108333.33333333331,2010-08-25,accounts,m,rented,"Clark, Mrs. Walter Miller (Virginia McDowell)",1978-12-23,bad
+208.0,"Baccos, Mr. Raffull",male, linkedin,iit roorkee,18.0,7.0,58333.33333333334,2010-08-26,hr,um,own house,"Lennon, Miss. Mary",1978-12-24,normal
+123.0,"Hiltunen, Miss. Marta",female, twitter.com,mca,21.0,22.0,183333.33333333328,2010-08-27,head,um,official,"Saade, Mr. Jean Nassr",1978-12-25,funny
+159.0,"Douglas, Mrs. Walter Donald (Mahala Dutton)",female, facebook.com,mba,17.0,22.0,183333.33333333328,2010-08-28,worker,m,rented,"Bryhl, Miss. Dagmar Jenny Ingeborg ",1978-12-26,aggressive
+243.0,"Lindstrom, Mrs. Carl Johan (Sigrid Posse)",female, instagram,bca,17.0,13.0,108333.33333333331,2010-08-29,worker,um,own house,"Parker, Mr. Clifford Richard",1978-12-27,good
+498.0,"Christy, Mrs. (Alice Frances)",female, facebook,b.tech,19.0,3.0,25000.0,2010-08-30,senior level,um,official,"Faunthorpe, Mr. Harry",1978-12-28,bad
+432.0,"Spedden, Mr. Frederic Oakley",male, linkedin,bba,18.0,18.0,150000.0,2010-08-31,it,um,rented,"Ware, Mr. John James",1978-12-29,normal
+90.0,"Hyman, Mr. Abraham",male, twitter.com,ba,0.0,22.0,183333.33333333328,2010-09-01,marketing,d,own house,"Oxenham, Mr. Percy Thomas",1978-12-30,funny
+218.0,"Johnston, Master. William Arthur Willie""""",male, facebook.com,ma,4.0,20.0,166666.6666666667,2010-09-02,it,m,official,"Oreskovic, Miss. Jelka",1978-12-31,aggressive
+140.0,"Kenyon, Mr. Frederick R",male, instagram,phd,12.0,14.0,116666.66666666669,2010-09-03,it,um,rented,"Peacock, Master. Alfred Edward",1979-01-01,good
+405.0,"Karnes, Mrs. J Frank (Claire Bennett)",female, facebook,10th,25.0,25.0,208333.33333333328,2010-09-04,marketing,m,own house,"Fleming, Miss. Honora",1979-01-02,bad
+249.0,"Drew, Mr. James Vivian",male,twitter,12th,16.0,22.0,183333.33333333328,2010-09-05,accounts,m,official,"Touma, Miss. Maria Youssef",1979-01-03,normal
+386.0,"Hold, Mrs. Stephen (Annie Margaret Hill)",female, linkedin,uneducated,2.0,14.0,116666.66666666669,2010-09-06,hr,um,rented,"Rosblom, Miss. Salli Helena",1979-01-04,funny
+210.0,"Khalil, Mrs. Betros (Zahie Maria"" Elias)""",female, twitter.com hello I love to use twitter and facebook this is my passion,m.tech,11.0,21.0,175000.0,2010-09-07,head,um,own house,"Dennis, Mr. William",1979-01-05,aggressive
+375.0,"West, Miss. Barbara J",female, twitter.com,be,11.0,4.0,33333.33333333333,2010-09-08,worker,m,official,"Franklin, Mr. Charles (Charles Fardon)",1979-01-06,good
+275.0,"Abrahamsson, Mr. Abraham August Johannes",male, instagram,me,0.0,11.0,91666.66666666666,2010-09-09,worker,um,rented,"Snyder, Mr. John Pillsbury",1979-01-07,bad
+160.0,"Clark, Mr. Walter Miller",male, facebook,iit delhi,5.0,15.0,125000.0,2010-09-10,senior level,um,own house,"Mardirosian, Mr. Sarkis",1979-01-08,normal
+2.0,"Salander, Mr. Karl Johan",male,twitter,iit mumbai,4.0,15.0,125000.0,2010-09-11,it,um,official,"Ford, Mr. Arthur",1979-01-09,funny
+153.0,"Wenzel, Mr. Linhart",male, linkedin,iit roorkee,18.0,24.0,200000.0,2010-09-12,marketing,d,rented,"Rheims, Mr. George Alexander Lucien",1979-01-10,aggressive
+197.0,"MacKay, Mr. George William",male, twitter.com,mca,16.0,21.0,175000.0,2010-09-13,it,m,own house,"Daly, Miss. Margaret Marcella Maggie""""",1979-01-11,good
+396.0,"Mahon, Mr. John",male, facebook.com,mba,3.0,23.0,191666.66666666672,2010-09-14,it,um,official,"Nasr, Mr. Mustafa",1979-01-12,bad
+499.0,"Niklasson, Mr. Samuel",male, instagram,bca,4.0,22.0,183333.33333333328,2010-09-15,marketing,m,rented,"Dodge, Dr. Washington",1979-01-13,normal
+49.0,"Bentham, Miss. Lilian W",female, facebook,b.tech,15.0,4.0,33333.33333333333,2010-09-16,accounts,um,rented,"Wittevrongel, Mr. Camille",1979-01-14,funny
+358.0,"de Messemaeker, Mr. Guillaume Joseph",male, linkedin,ba,10.0,19.0,158333.3333333333,2010-09-18,head,m,official,"Laroche, Miss. Louise",1979-01-16,good
+202.0,"Nilsson, Mr. August Ferdinand",male, twitter.com,ma,16.0,18.0,150000.0,2010-09-19,worker,um,rented,"Samaan, Mr. Hanna",1979-01-17,bad
+200.0,"Wells, Mrs. Arthur Henry (Addie"" Dart Trevaskis)""",female, facebook.com,phd,1.0,3.0,25000.0,2010-09-20,worker,um,own house,"Loring, Mr. Joseph Holland",1979-01-18,normal
+448.0,"Klasen, Miss. Gertrud Emilia",female, instagram,10th,24.0,3.0,25000.0,2010-09-21,senior level,um,official,"Johansson, Mr. Nils",1979-01-19,funny
+109.0,"Portaluppi, Mr. Emilio Ilario Giuseppe",male, facebook,12th,8.0,12.0,100000.0,2010-09-22,it,d,rented,"Olsson, Mr. Oscar Wilhelm",1979-01-20,aggressive
+200.0,"Lyntakoff, Mr. Stanko",male,twitter,uneducated,24.0,18.0,150000.0,2010-09-23,marketing,m,own house,"Malachard, Mr. Noel",1979-01-21,good
+191.0,"Chisholm, Mr. Roderick Robert Crispin",male, linkedin,m.tech,12.0,2.0,16666.666666666664,2010-09-24,it,um,official,"Phillips, Mr. Escott Robert",1979-01-22,bad
+113.0,"Warren, Mr. Charles William",male, twitter.com hello I love to use twitter and facebook this is my passion,be,21.0,15.0,125000.0,2010-09-25,it,um,rented,"Pokrnic, Mr. Tome",1979-01-23,normal
+272.0,"Pokrnic, Mr. Mate",male, facebook.com,iit delhi,21.0,12.0,100000.0,2010-09-27,accounts,um,official,"Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)",1979-01-25,aggressive
+294.0,"McCaffry, Mr. Thomas Francis",male, instagram,iit mumbai,12.0,13.0,108333.33333333331,2010-09-28,hr,um,rented,"Allison, Mr. Hudson Joshua Creighton",1979-01-26,good
+64.0,"Fox, Mr. Patrick",male,twitter,iit roorkee,24.0,11.0,91666.66666666666,2010-09-29,head,um,own house,"Aks, Master. Philip Frank",1979-01-27,bad
+38.0,"Clark, Mrs. Walter Miller (Virginia McDowell)",female, linkedin,mca,9.0,7.0,58333.33333333334,2010-09-30,worker,d,official,"Hays, Mr. Charles Melville",1979-01-28,normal
+97.0,"Lennon, Miss. Mary",female, twitter.com,mba,2.0,16.0,133333.3333333333,2010-10-01,worker,m,rented,"Hansen, Mrs. Claus Peter (Jennie L Howard)",1979-01-29,funny
+96.0,"Saade, Mr. Jean Nassr",male, facebook.com,bca,19.0,9.0,75000.0,2010-10-02,senior level,um,own house,"Cacic, Mr. Jego Grga",1979-01-30,aggressive
+351.0,"Bryhl, Miss. Dagmar Jenny Ingeborg ",female, instagram,b.tech,7.0,8.0,66666.66666666666,2010-10-03,it,m,official,"Vartanian, Mr. David",1979-01-31,good
+405.0,"Parker, Mr. Clifford Richard",male, facebook,bba,20.0,21.0,175000.0,2010-10-04,marketing,um,rented,"Sadowitz, Mr. Harry",1979-02-01,bad
+89.0,"Faunthorpe, Mr. Harry",male,twitter,ba,8.0,21.0,175000.0,2010-10-05,it,um,own house,"Carr, Miss. Jeannie",1979-02-02,normal
+91.0,"Ware, Mr. John James",male, linkedin,ma,20.0,3.0,25000.0,2010-10-06,it,m,official,"White, Mrs. John Stuart (Ella Holmes)",1979-02-03,funny
+346.0,"Oxenham, Mr. Percy Thomas",male, twitter.com,phd,18.0,11.0,91666.66666666666,2010-10-07,marketing,um,rented,"Hagardon, Miss. Kate",1979-02-04,aggressive
+280.0,"Oreskovic, Miss. Jelka",female, facebook.com,10th,19.0,15.0,125000.0,2010-10-08,accounts,um,own house,"Spencer, Mr. William Augustus",1979-02-05,good
+13.0,"Peacock, Master. Alfred Edward",male, instagram,12th,21.0,7.0,58333.33333333334,2010-10-09,hr,um,official,"Rogers, Mr. Reginald Harry",1979-02-06,bad
+106.0,"Fleming, Miss. Honora",female, facebook,uneducated,13.0,11.0,91666.66666666666,2010-10-10,head,d,rented,"Jonsson, Mr. Nils Hilding",1979-02-07,normal
+103.0,"Touma, Miss. Maria Youssef",female,twitter,m.tech,7.0,21.0,175000.0,2010-10-11,worker,m,own house,"Jefferys, Mr. Ernest Wilfred",1979-02-08,funny
+217.0,"Rosblom, Miss. Salli Helena",female, linkedin,be,1.0,11.0,91666.66666666666,2010-10-12,worker,um,official,"Andersson, Mr. Johan Samuel",1979-02-09,aggressive
+123.0,"Dennis, Mr. William",male, twitter.com hello I love to use twitter and facebook this is my passion,me,8.0,3.0,25000.0,2010-10-13,senior level,m,rented,"Krekorian, Mr. Neshan",1979-02-10,good
+302.0,"Franklin, Mr. Charles (Charles Fardon)",male, twitter.com,iit delhi,7.0,5.0,41666.66666666667,2010-10-14,it,m,own house,"Nesson, Mr. Israel",1979-02-11,bad
+322.0,"Snyder, Mr. John Pillsbury",male, facebook.com,iit mumbai,0.0,5.0,41666.66666666667,2010-10-15,marketing,um,official,"Rowe, Mr. Alfred G",1979-02-12,normal
+456.0,"Ford, Mr. Arthur",male, facebook,mca,10.0,8.0,66666.66666666666,2010-10-17,it,m,own house,"Assam, Mr. Ali",1979-02-14,aggressive
+148.0,"Rheims, Mr. George Alexander Lucien",male,twitter,mba,14.0,2.0,16666.666666666664,2010-10-18,marketing,um,official,"Becker, Miss. Ruth Elizabeth",1979-02-15,good
+328.0,"Daly, Miss. Margaret Marcella Maggie""""",female, linkedin,bca,6.0,16.0,133333.3333333333,2010-10-19,accounts,um,rented,"Rosenshine, Mr. George (Mr George Thorne"")""",1979-02-16,bad
+128.0,"Dodge, Dr. Washington",male, facebook.com,bba,18.0,20.0,166666.6666666667,2010-10-21,head,d,official,"Enander, Mr. Ingvar",1979-02-18,funny
+348.0,"Wittevrongel, Mr. Camille",male, instagram,ba,8.0,3.0,25000.0,2010-10-22,worker,m,rented,"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White) ",1979-02-19,aggressive
+44.0,"Angheloff, Mr. Minko",male, facebook,ma,1.0,21.0,175000.0,2010-10-23,worker,um,own house,"Dulles, Mr. William Crothers",1979-02-20,good
+22.0,"Laroche, Miss. Louise",female,twitter,phd,2.0,21.0,175000.0,2010-10-24,senior level,m,official,"Thomas, Mr. Tannous",1979-02-21,bad
+207.0,"Samaan, Mr. Hanna",male, linkedin,10th,2.0,2.0,16666.666666666664,2010-10-25,it,um,rented,"Nakid, Mrs. Said (Waika Mary"" Mowad)""",1979-02-22,normal
+437.0,"Loring, Mr. Joseph Holland",male, twitter.com,12th,19.0,6.0,50000.0,2010-10-26,marketing,um,own house,"Cor, Mr. Ivan",1979-02-23,funny
+370.0,"Olsson, Mr. Oscar Wilhelm",male, instagram,m.tech,19.0,23.0,191666.66666666672,2010-10-28,it,um,rented,"de Brito, Mr. Jose Joaquim",1979-02-25,good
+129.0,"Malachard, Mr. Noel",male, facebook,be,22.0,18.0,150000.0,2010-10-29,marketing,um,own house,"Elias, Mr. Joseph",1979-02-26,bad
+145.0,"Phillips, Mr. Escott Robert",male,twitter,me,22.0,25.0,208333.33333333328,2010-10-30,accounts,um,official,"Denbury, Mr. Herbert",1979-02-27,normal
+123.0,"Pokrnic, Mr. Tome",male, linkedin,iit delhi,19.0,18.0,150000.0,2010-10-31,hr,d,rented,"Betros, Master. Seman",1979-02-28,funny
+447.0,"McCarthy, Miss. Catherine Katie""""",female, twitter.com,iit mumbai,18.0,11.0,91666.66666666666,2010-11-01,head,m,own house,"Fillbrook, Mr. Joseph Charles",1979-03-01,aggressive
+106.0,"Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)",female, facebook.com,iit roorkee,5.0,20.0,166666.6666666667,2010-11-02,worker,um,official,"Lundstrom, Mr. Thure Edvin",1979-03-02,good
+214.0,"Allison, Mr. Hudson Joshua Creighton",male, instagram,mca,18.0,15.0,125000.0,2010-11-03,worker,m,rented,"Sage, Mr. John George",1979-03-03,bad
+385.0,"Aks, Master. Philip Frank",male, facebook,mba,14.0,20.0,166666.6666666667,2010-11-04,senior level,m,own house,"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",1979-03-04,normal
+425.0,"Hays, Mr. Charles Melville",male,twitter,bca,11.0,13.0,108333.33333333331,2010-11-05,it,um,official,"van Billiard, Master. James William",1979-03-05,funny
+474.0,"Hansen, Mrs. Claus Peter (Jennie L Howard)",female, linkedin,b.tech,18.0,3.0,25000.0,2010-11-06,marketing,um,rented,"Abelseth, Miss. Karen Marie",1979-03-06,aggressive
+341.0,"Cacic, Mr. Jego Grga",male, twitter.com,bba,4.0,14.0,116666.66666666669,2010-11-07,it,m,own house,"Botsford, Mr. William Hull",1979-03-07,good
+247.0,"Vartanian, Mr. David",male, facebook.com,ba,7.0,21.0,175000.0,2010-11-08,it,um,official,"Whabee, Mrs. George Joseph (Shawneene Abi-Saab)",1979-03-08,bad
+157.0,"Sadowitz, Mr. Harry",male, instagram,ma,20.0,18.0,150000.0,2010-11-09,marketing,um,rented,"Giles, Mr. Ralph",1979-03-09,normal
+213.0,"Carr, Miss. Jeannie",female, facebook,phd,13.0,19.0,158333.3333333333,2010-11-10,accounts,um,own house,"Walcroft, Miss. Nellie",1979-03-10,funny
+158.0,"White, Mrs. John Stuart (Ella Holmes)",female,twitter,10th,5.0,3.0,25000.0,2010-11-11,hr,d,official,"Greenfield, Mrs. Leo David (Blanche Strouse)",1979-03-11,aggressive
+68.0,"Hagardon, Miss. Kate",female, linkedin,12th,4.0,20.0,166666.6666666667,2010-11-12,head,m,rented,"Stokes, Mr. Philip Joseph",1979-03-12,good
+55.0,"Spencer, Mr. William Augustus",male, twitter.com,uneducated,6.0,25.0,208333.33333333328,2010-11-13,worker,um,own house,"Dibden, Mr. William",1979-03-13,bad
+253.0,"Rogers, Mr. Reginald Harry",male, facebook.com,m.tech,9.0,4.0,33333.33333333333,2010-11-14,worker,m,official,"Herman, Mr. Samuel",1979-03-14,normal
+476.0,"Jonsson, Mr. Nils Hilding",male, instagram,be,4.0,5.0,41666.66666666667,2010-11-15,senior level,um,rented,"Dean, Miss. Elizabeth Gladys Millvina""""",1979-03-15,funny
+189.0,"Jefferys, Mr. Ernest Wilfred",male, facebook,me,14.0,8.0,66666.66666666666,2010-11-16,it,um,own house,"Julian, Mr. Henry Forbes",1979-03-16,aggressive
+325.0,"Andersson, Mr. Johan Samuel",male,twitter,iit delhi,12.0,16.0,133333.3333333333,2010-11-17,marketing,m,official,"Brown, Mrs. John Murray (Caroline Lane Lamson)",1979-03-17,good
+305.0,"Krekorian, Mr. Neshan",male, linkedin,iit mumbai,7.0,3.0,25000.0,2010-11-18,it,um,rented,"Lockyer, Mr. Edward",1979-03-18,bad
+211.0,"Rowe, Mr. Alfred G",male, twitter.com,mca,18.0,25.0,208333.33333333328,2010-11-20,marketing,um,own house,"Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)",1979-03-20,funny
+473.0,"Kreuchen, Miss. Emilie",female, facebook.com,mba,0.0,14.0,116666.66666666669,2010-11-21,accounts,d,official,"Sage, Master. William Henry",1979-03-21,aggressive
+395.0,"Assam, Mr. Ali",male, instagram,bca,9.0,4.0,33333.33333333333,2010-11-22,hr,m,rented,"Mallet, Mrs. Albert (Antoinette Magnin)",1979-03-22,good
+475.0,"Becker, Miss. Ruth Elizabeth",female, facebook,b.tech,3.0,25.0,208333.33333333328,2010-11-23,head,um,own house,"Ware, Mrs. John James (Florence Louise Long)",1979-03-23,bad
+163.0,"Rosenshine, Mr. George (Mr George Thorne"")""",male, linkedin,bba,10.0,19.0,158333.3333333333,2010-11-24,worker,um,official,"Strilic, Mr. Ivan",1979-03-24,normal
+416.0,"Clarke, Mr. Charles Valentine",male, twitter.com,ba,11.0,22.0,183333.33333333328,2010-11-25,worker,m,rented,"Harder, Mrs. George Achilles (Dorothy Annan)",1979-03-25,funny
+73.0,"Enander, Mr. Ingvar",male, facebook.com,ma,18.0,5.0,41666.66666666667,2010-11-26,senior level,um,own house,"Sage, Mrs. John (Annie Bullen)",1979-03-26,aggressive
+131.0,"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White) ",female, facebook,phd,7.0,15.0,125000.0,2010-11-27,it,um,official,"Caram, Mr. Joseph",1979-03-27,good
+167.0,"Dulles, Mr. William Crothers",male,twitter,10th,3.0,15.0,125000.0,2010-11-28,marketing,um,rented,"Riihivouri, Miss. Susanna Juhantytar Sanni""""",1979-03-28,bad
+250.0,"Thomas, Mr. Tannous",male, linkedin,12th,6.0,9.0,75000.0,2010-11-29,it,d,own house,"Gibson, Mrs. Leonard (Pauline C Boeson)",1979-03-29,normal
+104.0,"Nakid, Mrs. Said (Waika Mary"" Mowad)""",female, twitter.com,uneducated,6.0,3.0,25000.0,2010-11-30,it,m,official,"Pallas y Castello, Mr. Emilio",1979-03-30,funny
+200.0,"Cor, Mr. Ivan",male, facebook.com,m.tech,11.0,14.0,116666.66666666669,2010-12-01,marketing,um,rented,"Giles, Mr. Edgar",1979-03-31,aggressive
+456.0,"Maguire, Mr. John Edward",male, instagram,be,20.0,16.0,133333.3333333333,2010-12-02,accounts,m,own house,"Wilson, Miss. Helen Alice",1979-04-01,good
+9.0,"de Brito, Mr. Jose Joaquim",male, facebook,me,16.0,14.0,116666.66666666669,2010-12-03,hr,um,official,"Ismay, Mr. Joseph Bruce",1979-04-02,bad
+61.0,"Elias, Mr. Joseph",male,twitter,iit delhi,11.0,16.0,133333.3333333333,2010-12-04,head,um,rented,"Harbeck, Mr. William H",1979-04-03,normal
+271.0,"Denbury, Mr. Herbert",male, linkedin,iit mumbai,20.0,22.0,183333.33333333328,2010-12-05,worker,m,own house,"Dodge, Mrs. Washington (Ruth Vidaver)",1979-04-04,funny
+51.0,"Betros, Master. Seman",male, twitter.com hello I love to use twitter and facebook this is my passion,iit roorkee,21.0,20.0,166666.6666666667,2010-12-06,worker,m,official,"Bowen, Miss. Grace Scott",1979-04-05,aggressive
+304.0,"Fillbrook, Mr. Joseph Charles",male, twitter.com,mca,17.0,3.0,25000.0,2010-12-07,senior level,um,rented,"Kink, Miss. Maria",1979-04-06,good
+231.0,"Lundstrom, Mr. Thure Edvin",male, facebook.com,mba,13.0,2.0,16666.666666666664,2010-12-08,it,um,own house,"Cotterill, Mr. Henry Harry""""",1979-04-07,bad
+455.0,"Sage, Mr. John George",male, instagram,bca,17.0,11.0,91666.66666666666,2010-12-09,marketing,m,official,"Hipkins, Mr. William Edward",1979-04-08,normal
+198.0,"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",female, facebook,b.tech,3.0,15.0,125000.0,2010-12-10,it,um,rented,"Asplund, Master. Carl Edgar",1979-04-09,funny
+103.0,"van Billiard, Master. James William",male,twitter,bba,14.0,6.0,50000.0,2010-12-11,it,um,rented,"O'Connor, Mr. Patrick",1979-04-10,aggressive
+339.0,"Abelseth, Miss. Karen Marie",female, linkedin,ba,1.0,21.0,175000.0,2010-12-12,marketing,um,own house,"Foley, Mr. Joseph",1979-04-11,good
+48.0,"Botsford, Mr. William Hull",male, twitter.com,ma,9.0,19.0,158333.3333333333,2010-12-13,accounts,d,official,"Risien, Mrs. Samuel (Emma)",1979-04-12,bad
+164.0,"Whabee, Mrs. George Joseph (Shawneene Abi-Saab)",female, facebook.com,phd,8.0,2.0,16666.666666666664,2010-12-14,hr,m,rented,"McNamee, Mrs. Neal (Eileen O'Leary)",1979-04-13,normal
+112.0,"Giles, Mr. Ralph",male, instagram,10th,24.0,14.0,116666.66666666669,2010-12-15,head,um,own house,"Wheeler, Mr. Edwin Frederick""""",1979-04-14,funny
+288.0,"Walcroft, Miss. Nellie",female, facebook,12th,12.0,6.0,50000.0,2010-12-16,worker,m,official,"Herman, Miss. Kate",1979-04-15,aggressive
+315.0,"Greenfield, Mrs. Leo David (Blanche Strouse)",female,twitter,uneducated,24.0,8.0,66666.66666666666,2010-12-17,worker,um,rented,"Aronsson, Mr. Ernst Axel Algot",1979-04-16,good
+464.0,"Stokes, Mr. Philip Joseph",male, twitter.com,m.tech,24.0,10.0,83333.33333333334,2010-12-18,senior level,um,own house,"Ashby, Mr. John",1979-04-17,bad
+68.0,"Dibden, Mr. William",male, facebook.com,be,15.0,7.0,58333.33333333334,2010-12-19,it,m,official,"Canavan, Mr. Patrick",1979-04-18,normal
+116.0,"Herman, Mr. Samuel",male, instagram,me,11.0,2.0,16666.666666666664,2010-12-20,marketing,um,rented,"Palsson, Master. Paul Folke",1979-04-19,funny
+263.0,"Dean, Miss. Elizabeth Gladys Millvina""""",female, facebook,iit delhi,22.0,8.0,66666.66666666666,2010-12-21,it,um,own house,"Payne, Mr. Vivian Ponsonby",1979-04-20,aggressive
+358.0,"Julian, Mr. Henry Forbes",male,twitter,iit mumbai,19.0,13.0,108333.33333333331,2010-12-22,it,um,official,"Lines, Mrs. Ernest H (Elizabeth Lindsey James)",1979-04-21,good
+382.0,"Brown, Mrs. John Murray (Caroline Lane Lamson)",female, twitter.com hello I love to use twitter and facebook this is my passion,iit roorkee,7.0,9.0,75000.0,2010-12-23,marketing,d,rented,"Abbott, Master. Eugene Joseph",1979-04-22,bad
+62.0,"Lockyer, Mr. Edward",male, facebook,mca,20.0,23.0,191666.66666666672,2010-12-24,accounts,m,own house,"Gilbert, Mr. William",1979-04-23,normal
+231.0,"O'Keefe, Mr. Patrick",male,twitter,mba,14.0,4.0,33333.33333333333,2010-12-25,hr,um,official,"Kink-Heilmann, Mr. Anton",1979-04-24,funny
+392.0,"Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)",female, linkedin,bca,13.0,16.0,133333.3333333333,2010-12-26,head,m,rented,"Smith, Mrs. Lucien Philip (Mary Eloise Hughes)",1979-04-25,aggressive
+450.0,"Sage, Master. William Henry",male, twitter.com hello I love to use twitter and facebook this is my passion,b.tech,5.0,11.0,91666.66666666666,2010-12-27,worker,m,own house,"Colbert, Mr. Patrick",1979-04-26,good
+99.0,"Mallet, Mrs. Albert (Antoinette Magnin)",female, twitter.com,bba,6.0,13.0,108333.33333333331,2010-12-28,worker,um,official,"Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)",1979-04-27,bad
+166.0,"Ware, Mrs. John James (Florence Louise Long)",female, facebook.com,ba,0.0,24.0,200000.0,2010-12-29,senior level,um,rented,"Larsson-Rondberg, Mr. Edvard A",1979-04-28,normal
+70.0,"Strilic, Mr. Ivan",male, instagram,ma,23.0,12.0,100000.0,2010-12-30,it,m,own house,"Conlon, Mr. Thomas Henry",1979-04-29,funny
+121.0,"Harder, Mrs. George Achilles (Dorothy Annan)",female, facebook,phd,16.0,3.0,25000.0,2010-12-31,marketing,um,official,"Bonnell, Miss. Caroline",1979-04-30,aggressive
+375.0,"Sage, Mrs. John (Annie Bullen)",female,twitter,10th,19.0,6.0,50000.0,2011-01-01,it,um,rented,"Gale, Mr. Harry",1979-05-01,good
+45.0,"Caram, Mr. Joseph",male, linkedin,12th,15.0,9.0,75000.0,2011-01-02,it,um,own house,"Gibson, Miss. Dorothy Winifred",1979-05-02,bad
+214.0,"Riihivouri, Miss. Susanna Juhantytar Sanni""""",female, twitter.com,uneducated,24.0,7.0,58333.33333333334,2011-01-03,marketing,d,official,"Carrau, Mr. Jose Pedro",1979-05-03,normal
+286.0,"Gibson, Mrs. Leonard (Pauline C Boeson)",female, facebook.com,m.tech,24.0,3.0,25000.0,2011-01-04,accounts,m,rented,"Frauenthal, Mr. Isaac Gerald",1979-05-04,funny
+125.0,"Pallas y Castello, Mr. Emilio",male, instagram,be,25.0,10.0,83333.33333333334,2011-01-05,hr,um,own house,"Nourney, Mr. Alfred (Baron von Drachstedt"")""",1979-05-05,aggressive
+210.0,"Giles, Mr. Edgar",male, facebook,me,25.0,14.0,116666.66666666669,2011-01-06,head,m,official,"Ware, Mr. William Jeffery",1979-05-06,good
+175.0,"Wilson, Miss. Helen Alice",female,twitter,iit delhi,19.0,5.0,41666.66666666667,2011-01-07,worker,um,rented,"Widener, Mr. George Dunton",1979-05-07,bad
+33.0,"Ismay, Mr. Joseph Bruce",male, linkedin,iit mumbai,8.0,10.0,83333.33333333334,2011-01-08,worker,um,own house,"Riordan, Miss. Johanna Hannah""""",1979-05-08,normal
+456.0,"Harbeck, Mr. William H",male, twitter.com,iit roorkee,4.0,24.0,200000.0,2011-01-09,senior level,m,official,"Peacock, Miss. Treasteall",1979-05-09,funny
+149.0,"Dodge, Mrs. Washington (Ruth Vidaver)",female, facebook.com,mca,1.0,11.0,91666.66666666666,2011-01-10,it,um,rented,"Naughton, Miss. Hannah",1979-05-10,aggressive
+175.0,"Bowen, Miss. Grace Scott",female, instagram,mba,22.0,12.0,100000.0,2011-01-11,marketing,um,own house,"Minahan, Mrs. William Edward (Lillian E Thorpe)",1979-05-11,good
+70.0,"Kink, Miss. Maria",female, facebook,bca,16.0,13.0,108333.33333333331,2011-01-12,it,um,official,"Henriksson, Miss. Jenny Lovisa",1979-05-12,bad
+246.0,"Cotterill, Mr. Henry Harry""""",male,twitter,b.tech,14.0,17.0,141666.6666666667,2011-01-13,it,d,rented,"Spector, Mr. Woolf",1979-05-13,normal
+155.0,"Hipkins, Mr. William Edward",male, linkedin,bba,25.0,11.0,91666.66666666666,2011-01-14,marketing,m,own house,"Oliva y Ocana, Dona. Fermina",1979-05-14,funny
+398.0,"Asplund, Master. Carl Edgar",male, twitter.com hello I love to use twitter and facebook this is my passion,ba,1.0,16.0,133333.3333333333,2011-01-15,accounts,um,official,"Saether, Mr. Simon Sivertsen",1979-05-15,aggressive
+215.0,"O'Connor, Mr. Patrick",male, twitter.com,ma,13.0,21.0,175000.0,2011-01-16,hr,um,rented,"Ware, Mr. Frederick",1979-05-16,good
+77.0,"Foley, Mr. Joseph",male, facebook.com,phd,10.0,17.0,141666.6666666667,2011-01-17,head,m,own house,"Peter, Master. Michael J",1979-05-17,bad
+343.0,"Risien, Mrs. Samuel (Emma)",female, instagram,10th,0.0,22.0,183333.33333333328,2011-01-18,worker,um,official,"Clarke, Mr. Charles Valentine",1979-05-18,normal
+188.0,"McNamee, Mrs. Neal (Eileen O'Leary)",female, facebook,12th,2.0,25.0,208333.33333333328,2011-01-19,worker,um,rented,"Enander, Mr. Ingvar",1979-05-19,funny
+261.0,"Wheeler, Mr. Edwin Frederick""""",male,twitter,uneducated,7.0,12.0,100000.0,2011-01-20,senior level,um,own house,"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White) ",1979-05-20,aggressive
+245.0,"Herman, Miss. Kate",female, linkedin,m.tech,18.0,19.0,158333.3333333333,2011-01-21,it,d,official,"Dulles, Mr. William Crothers",1979-05-21,good
+258.0,"Aronsson, Mr. Ernst Axel Algot",male, twitter.com,be,15.0,23.0,191666.66666666672,2011-01-22,marketing,m,rented,"Thomas, Mr. Tannous",1979-05-22,bad
+370.0,"Ashby, Mr. John",male, facebook.com,me,21.0,24.0,200000.0,2011-01-23,it,um,own house,"Nakid, Mrs. Said (Waika Mary"" Mowad)""",1979-05-23,normal
+312.0,"Canavan, Mr. Patrick",male, instagram,iit delhi,18.0,12.0,100000.0,2011-01-24,it,m,official,"Cor, Mr. Ivan",1979-05-24,funny
+370.0,"Palsson, Master. Paul Folke",male, facebook,iit mumbai,19.0,13.0,108333.33333333331,2011-01-25,marketing,um,rented,"Maguire, Mr. John Edward",1979-05-25,aggressive
+210.0,"Payne, Mr. Vivian Ponsonby",male, linkedin,iit roorkee,12.0,15.0,125000.0,2011-01-26,accounts,um,own house,"de Brito, Mr. Jose Joaquim",1979-05-26,good
+26.0,"Lines, Mrs. Ernest H (Elizabeth Lindsey James)",female, twitter.com,mca,25.0,3.0,25000.0,2011-01-27,hr,m,official,"Elias, Mr. Joseph",1979-05-27,bad
+61.0,"Abbott, Master. Eugene Joseph",male, facebook.com,mba,23.0,25.0,208333.33333333328,2011-01-28,head,um,rented,"Denbury, Mr. Herbert",1979-05-28,normal
+364.0,"Gilbert, Mr. William",male, instagram,bca,22.0,13.0,108333.33333333331,2011-01-29,worker,um,own house,"Betros, Master. Seman",1979-05-29,funny
+391.0,"Kink-Heilmann, Mr. Anton",male, facebook,b.tech,7.0,4.0,33333.33333333333,2011-01-30,worker,um,official,"Fillbrook, Mr. Joseph Charles",1979-05-30,aggressive
+259.0,"Smith, Mrs. Lucien Philip (Mary Eloise Hughes)",female,twitter,bba,25.0,2.0,16666.666666666664,2011-01-31,senior level,d,rented,"Lundstrom, Mr. Thure Edvin",1979-05-31,good
+412.0,"Colbert, Mr. Patrick",male, linkedin,ba,2.0,19.0,158333.3333333333,2011-02-01,it,m,own house,"Sage, Mr. John George",1979-06-01,bad
+159.0,"Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)",female, twitter.com hello I love to use twitter and facebook this is my passion,ma,14.0,4.0,33333.33333333333,2011-02-02,marketing,um,official,"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",1979-06-02,normal
+338.0,"Larsson-Rondberg, Mr. Edvard A",male, twitter.com,phd,4.0,5.0,41666.66666666667,2011-02-03,it,m,rented,"van Billiard, Master. James William",1979-06-03,funny
+296.0,"Conlon, Mr. Thomas Henry",male, facebook.com,10th,2.0,14.0,116666.66666666669,2011-02-04,it,m,own house,"Abelseth, Miss. Karen Marie",1979-06-04,aggressive
+89.0,"Bonnell, Miss. Caroline",female, instagram,12th,0.0,22.0,183333.33333333328,2011-02-05,marketing,um,official,"Botsford, Mr. William Hull",1979-06-05,good
+355.0,"Gale, Mr. Harry",male, facebook,uneducated,8.0,18.0,150000.0,2011-02-06,accounts,um,rented,"Whabee, Mrs. George Joseph (Shawneene Abi-Saab)",1979-06-06,bad
+121.0,"Gibson, Miss. Dorothy Winifred",female,twitter,m.tech,5.0,14.0,116666.66666666669,2011-02-07,hr,m,own house,"Giles, Mr. Ralph",1979-06-07,normal
+249.0,"Carrau, Mr. Jose Pedro",male, linkedin,be,0.0,10.0,83333.33333333334,2011-02-08,head,um,official,"Walcroft, Miss. Nellie",1979-06-08,funny
+355.0,"Frauenthal, Mr. Isaac Gerald",male, twitter.com,me,20.0,14.0,116666.66666666669,2011-02-09,worker,um,rented,"Greenfield, Mrs. Leo David (Blanche Strouse)",1979-06-09,aggressive
+366.0,"Nourney, Mr. Alfred (Baron von Drachstedt"")""",male, facebook.com,iit delhi,7.0,17.0,141666.6666666667,2011-02-10,worker,um,own house,"Stokes, Mr. Philip Joseph",1979-06-10,good
+177.0,"Ware, Mr. William Jeffery",male, instagram,iit mumbai,20.0,9.0,75000.0,2011-02-11,senior level,d,official,"Dibden, Mr. William",1979-06-11,bad
+283.0,"Widener, Mr. George Dunton",male, facebook,iit roorkee,16.0,12.0,100000.0,2011-02-12,it,m,rented,"Herman, Mr. Samuel",1979-06-12,normal
+188.0,"Riordan, Miss. Johanna Hannah""""",female,twitter,uneducated,6.0,2.0,16666.666666666664,2011-02-13,marketing,um,rented,"Dean, Miss. Elizabeth Gladys Millvina""""",1979-06-13,funny
+399.0,"Peacock, Miss. Treasteall",female, linkedin,m.tech,15.0,20.0,166666.6666666667,2011-02-14,it,m,own house,"Julian, Mr. Henry Forbes",1979-06-14,aggressive
+333.0,"Naughton, Miss. Hannah",female, twitter.com,be,20.0,19.0,158333.3333333333,2011-02-15,it,um,official,"Brown, Mrs. John Murray (Caroline Lane Lamson)",1979-06-15,good
+283.0,"Minahan, Mrs. William Edward (Lillian E Thorpe)",female, facebook.com,me,11.0,18.0,150000.0,2011-02-16,marketing,um,rented,"Lockyer, Mr. Edward",1979-06-16,bad
+339.0,"Henriksson, Miss. Jenny Lovisa",female, instagram,iit delhi,2.0,12.0,100000.0,2011-02-17,accounts,m,own house,"O'Keefe, Mr. Patrick",1979-06-17,normal
+307.0,"Spector, Mr. Woolf",male, facebook,iit mumbai,7.0,11.0,91666.66666666666,2011-02-18,hr,um,official,"Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)",1979-06-18,funny
+463.0,"Oliva y Ocana, Dona. Fermina",female,twitter,iit roorkee,21.0,6.0,50000.0,2011-02-19,head,um,rented,"Sage, Master. William Henry",1979-06-19,aggressive
+222.0,"Saether, Mr. Simon Sivertsen",male, linkedin,mca,2.0,18.0,150000.0,2011-02-20,worker,um,own house,"Mallet, Mrs. Albert (Antoinette Magnin)",1979-06-20,good
+117.0,"Ware, Mr. Frederick",male, twitter.com hello I love to use twitter and facebook this is my passion,mba,8.0,13.0,108333.33333333331,2011-02-21,worker,d,official,"Ware, Mrs. John James (Florence Louise Long)",1979-06-21,bad
+63.0,"Peter, Master. Michael J",male, twitter.com,bca,4.0,17.0,141666.6666666667,2011-02-22,senior level,m,rented,"Strilic, Mr. Ivan",1979-06-22,normal
+302.0,"Clarke, Mr. Charles Valentine",male, facebook.com,b.tech,12.0,12.0,100000.0,2011-02-23,it,um,own house,"Harder, Mrs. George Achilles (Dorothy Annan)",1979-06-23,funny
+410.0,"Enander, Mr. Ingvar",male, instagram,bba,5.0,21.0,175000.0,2011-02-24,marketing,m,official,"Sage, Mrs. John (Annie Bullen)",1979-06-24,aggressive
+433.0,"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White) ",female, facebook,ba,8.0,25.0,208333.33333333328,2011-02-25,it,m,rented,"Caram, Mr. Joseph",1979-06-25,good
+5.0,"Dulles, Mr. William Crothers",male,twitter,ma,20.0,3.0,25000.0,2011-02-26,it,um,own house,"Riihivouri, Miss. Susanna Juhantytar Sanni""""",1979-06-26,bad
+169.0,"Thomas, Mr. Tannous",male, linkedin,phd,11.0,6.0,50000.0,2011-02-27,marketing,um,official,"Gibson, Mrs. Leonard (Pauline C Boeson)",1979-06-27,normal
+133.0,"Nakid, Mrs. Said (Waika Mary"" Mowad)""",female, twitter.com,10th,13.0,12.0,100000.0,2011-02-28,accounts,m,rented,"Pallas y Castello, Mr. Emilio",1979-06-28,funny
+436.0,"Cor, Mr. Ivan",male, facebook.com,12th,15.0,22.0,183333.33333333328,2011-03-01,hr,um,own house,"Giles, Mr. Edgar",1979-06-29,aggressive
+81.0,"Maguire, Mr. John Edward",male, instagram,uneducated,17.0,22.0,183333.33333333328,2011-03-02,head,um,official,"Wilson, Miss. Helen Alice",1979-06-30,good
+359.0,"de Brito, Mr. Jose Joaquim",male, facebook,m.tech,23.0,24.0,200000.0,2011-03-03,worker,um,rented,"Ismay, Mr. Joseph Bruce",1979-07-01,bad
+119.0,"Elias, Mr. Joseph",male,twitter,be,0.0,6.0,50000.0,2011-03-04,worker,d,own house,"Harbeck, Mr. William H",1979-07-02,normal
+327.0,"Denbury, Mr. Herbert",male, linkedin,me,23.0,3.0,25000.0,2011-03-05,senior level,m,official,"Dodge, Mrs. Washington (Ruth Vidaver)",1979-07-03,funny
+333.0,"Betros, Master. Seman",male, twitter.com,iit delhi,5.0,17.0,141666.6666666667,2011-03-06,it,um,rented,"Bowen, Miss. Grace Scott",1979-07-04,aggressive
+441.0,"Fillbrook, Mr. Joseph Charles",male, facebook.com,iit mumbai,23.0,3.0,25000.0,2011-03-07,marketing,m,rented,"Kink, Miss. Maria",1979-07-05,good
+38.0,"Lundstrom, Mr. Thure Edvin",male, instagram,iit roorkee,4.0,4.0,33333.33333333333,2011-03-08,it,um,own house,"Cotterill, Mr. Henry Harry""""",1979-07-06,bad
+275.0,"Sage, Mr. John George",male, facebook,uneducated,2.0,5.0,41666.66666666667,2011-03-09,it,um,official,"Hipkins, Mr. William Edward",1979-07-07,normal
+173.0,"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",female,twitter,m.tech,23.0,6.0,50000.0,2011-03-10,marketing,m,rented,"Asplund, Master. Carl Edgar",1979-07-08,funny
+489.0,"van Billiard, Master. James William",male, linkedin,be,25.0,9.0,75000.0,2011-03-11,accounts,um,own house,"O'Connor, Mr. Patrick",1979-07-09,aggressive
+193.0,"Abelseth, Miss. Karen Marie",female, twitter.com hello I love to use twitter and facebook this is my passion,me,5.0,4.0,33333.33333333333,2011-03-12,hr,um,official,"Foley, Mr. Joseph",1979-07-10,good
+243.0,"Botsford, Mr. William Hull",male, twitter.com,iit delhi,14.0,8.0,66666.66666666666,2011-03-13,head,um,rented,"Risien, Mrs. Samuel (Emma)",1979-07-11,bad
+303.0,"Whabee, Mrs. George Joseph (Shawneene Abi-Saab)",female, facebook.com,iit mumbai,17.0,12.0,100000.0,2011-03-14,worker,d,own house,"McNamee, Mrs. Neal (Eileen O'Leary)",1979-07-12,normal
+3.0,"Giles, Mr. Ralph",male, instagram,iit roorkee,3.0,10.0,83333.33333333334,2011-03-15,worker,m,official,"Wheeler, Mr. Edwin Frederick""""",1979-07-13,funny
+424.0,"Walcroft, Miss. Nellie",female, facebook,mca,2.0,6.0,50000.0,2011-03-16,senior level,um,rented,"Herman, Miss. Kate",1979-07-14,aggressive
+184.0,"Greenfield, Mrs. Leo David (Blanche Strouse)",female,twitter,mba,11.0,8.0,66666.66666666666,2011-03-17,it,um,own house,"Aronsson, Mr. Ernst Axel Algot",1979-07-15,good
+282.0,"Stokes, Mr. Philip Joseph",male, linkedin,bca,8.0,25.0,208333.33333333328,2011-03-18,marketing,m,official,"Ashby, Mr. John",1979-07-16,bad
+335.0,"Dibden, Mr. William",male, twitter.com,b.tech,7.0,6.0,50000.0,2011-03-19,it,um,rented,"Canavan, Mr. Patrick",1979-07-17,normal
+339.0,"Herman, Mr. Samuel",male, facebook.com,bba,11.0,15.0,125000.0,2011-03-20,it,um,own house,"Palsson, Master. Paul Folke",1979-07-18,funny
+269.0,"Dean, Miss. Elizabeth Gladys Millvina""""",female, instagram,ba,19.0,24.0,200000.0,2011-03-21,marketing,um,official,"Payne, Mr. Vivian Ponsonby",1979-07-19,aggressive
+118.0,"Julian, Mr. Henry Forbes",male, facebook,ma,21.0,25.0,208333.33333333328,2011-03-22,accounts,d,rented,"Lines, Mrs. Ernest H (Elizabeth Lindsey James)",1979-07-20,good
+216.0,"Brown, Mrs. John Murray (Caroline Lane Lamson)",female,twitter,phd,20.0,25.0,208333.33333333328,2011-03-23,hr,m,own house,"Abbott, Master. Eugene Joseph",1979-07-21,bad
+197.0,"Lockyer, Mr. Edward",male, linkedin,10th,13.0,4.0,33333.33333333333,2011-03-24,head,um,official,"Gilbert, Mr. William",1979-07-22,normal
+310.0,"O'Keefe, Mr. Patrick",male, twitter.com,12th,3.0,22.0,183333.33333333328,2011-03-25,worker,m,rented,"Kink-Heilmann, Mr. Anton",1979-07-23,funny
+100.0,"Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)",female, facebook.com,uneducated,9.0,4.0,33333.33333333333,2011-03-26,worker,um,own house,"Smith, Mrs. Lucien Philip (Mary Eloise Hughes)",1979-07-24,aggressive
+366.0,"Sage, Master. William Henry",male, instagram,m.tech,12.0,21.0,175000.0,2011-03-27,senior level,um,official,"Colbert, Mr. Patrick",1979-07-25,good
+479.0,"Mallet, Mrs. Albert (Antoinette Magnin)",female, facebook,be,5.0,23.0,191666.66666666672,2011-03-28,it,m,rented,"Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)",1979-07-26,bad
+400.0,"Ware, Mrs. John James (Florence Louise Long)",female,twitter,me,23.0,18.0,150000.0,2011-03-29,marketing,m,own house,"Larsson-Rondberg, Mr. Edvard A",1979-07-27,normal
+233.0,"Strilic, Mr. Ivan",male, linkedin,iit delhi,18.0,15.0,125000.0,2011-03-30,it,um,official,"Conlon, Mr. Thomas Henry",1979-07-28,funny
+89.0,"Harder, Mrs. George Achilles (Dorothy Annan)",female, twitter.com hello I love to use twitter and facebook this is my passion,iit mumbai,3.0,5.0,41666.66666666667,2011-03-31,it,um,rented,"Bonnell, Miss. Caroline",1979-07-29,aggressive
+499.0,"Sage, Mrs. John (Annie Bullen)",female, twitter.com,iit roorkee,20.0,10.0,83333.33333333334,2011-04-01,marketing,m,own house,"Gale, Mr. Harry",1979-07-30,good
+405.0,"Caram, Mr. Joseph",male, facebook.com,uneducated,12.0,17.0,141666.6666666667,2011-04-02,accounts,um,official,"Gibson, Miss. Dorothy Winifred",1979-07-31,bad
+124.0,"Riihivouri, Miss. Susanna Juhantytar Sanni""""",female, instagram,m.tech,11.0,24.0,200000.0,2011-04-03,hr,um,rented,"Carrau, Mr. Jose Pedro",1979-08-01,normal
+256.0,"Gibson, Mrs. Leonard (Pauline C Boeson)",female, facebook,be,12.0,15.0,125000.0,2011-04-04,head,um,own house,"Frauenthal, Mr. Isaac Gerald",1979-08-02,funny
+226.0,"Pallas y Castello, Mr. Emilio",male,twitter,me,6.0,13.0,108333.33333333331,2011-04-05,worker,d,official,"Nourney, Mr. Alfred (Baron von Drachstedt"")""",1979-08-03,aggressive
+406.0,"Giles, Mr. Edgar",male, linkedin,iit delhi,24.0,16.0,133333.3333333333,2011-04-06,worker,m,rented,"Ware, Mr. William Jeffery",1979-08-04,good
+394.0,"Wilson, Miss. Helen Alice",female, twitter.com,iit mumbai,8.0,14.0,116666.66666666669,2011-04-07,senior level,um,own house,"Widener, Mr. George Dunton",1979-08-05,bad
+384.0,"Ismay, Mr. Joseph Bruce",male, facebook.com,iit roorkee,19.0,18.0,150000.0,2011-04-08,it,m,official,"Riordan, Miss. Johanna Hannah""""",1979-08-06,normal
+114.0,"Harbeck, Mr. William H",male, instagram,mca,8.0,6.0,50000.0,2011-04-09,marketing,um,rented,"Nourney, Mr. Alfred (Baron von Drachstedt"")""",1979-08-07,funny
+494.0,"Dodge, Mrs. Washington (Ruth Vidaver)",female, facebook,mba,21.0,2.0,16666.666666666664,2011-04-10,it,um,own house,"Palsson, Master. Paul Folke",1979-08-08,aggressive
+387.0,"Bowen, Miss. Grace Scott",female,twitter,bca,16.0,16.0,133333.3333333333,2011-04-11,it,m,official,"Payne, Mr. Vivian Ponsonby",1979-08-09,good
+205.0,"Kink, Miss. Maria",female, linkedin,b.tech,13.0,20.0,166666.6666666667,2011-04-12,marketing,um,rented,"Lines, Mrs. Ernest H (Elizabeth Lindsey James)",1979-08-10,bad
+107.0,"Cotterill, Mr. Henry Harry""""",male, twitter.com,bba,5.0,17.0,141666.6666666667,2011-04-13,accounts,um,own house,"Abbott, Master. Eugene Joseph",1979-08-11,normal
+113.0,"Hipkins, Mr. William Edward",male, facebook.com,ba,18.0,12.0,100000.0,2011-04-14,hr,um,official,"Gilbert, Mr. William",1979-08-12,funny
+351.0,"Asplund, Master. Carl Edgar",male, instagram,ma,18.0,16.0,133333.3333333333,2011-04-15,head,d,rented,"Kink-Heilmann, Mr. Anton",1979-08-13,aggressive
+474.0,"O'Connor, Mr. Patrick",male, facebook,phd,23.0,18.0,150000.0,2011-04-16,worker,m,own house,"Smith, Mrs. Lucien Philip (Mary Eloise Hughes)",1979-08-14,good
+354.0,"Foley, Mr. Joseph",male,twitter,10th,5.0,20.0,166666.6666666667,2011-04-17,worker,um,official,"Colbert, Mr. Patrick",1979-08-15,bad
+179.0,"Risien, Mrs. Samuel (Emma)",female, linkedin,12th,0.0,2.0,16666.666666666664,2011-04-18,senior level,m,rented,"Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)",1979-08-16,normal
+367.0,"McNamee, Mrs. Neal (Eileen O'Leary)",female, twitter.com hello I love to use twitter and facebook this is my passion,uneducated,19.0,22.0,183333.33333333328,2011-04-19,it,m,own house,"Larsson-Rondberg, Mr. Edvard A",1979-08-17,funny
+169.0,"Wheeler, Mr. Edwin Frederick""""",male, twitter.com,m.tech,22.0,2.0,16666.666666666664,2011-04-20,marketing,um,official,"Conlon, Mr. Thomas Henry",1979-08-18,aggressive
+421.0,"Herman, Miss. Kate",female, facebook.com,be,8.0,23.0,191666.66666666672,2011-04-21,it,um,rented,"Bonnell, Miss. Caroline",1979-08-19,good
+433.0,"Aronsson, Mr. Ernst Axel Algot",male, instagram,me,7.0,11.0,91666.66666666666,2011-04-22,it,m,own house,"Gale, Mr. Harry",1979-08-20,bad
+72.0,"Ashby, Mr. John",male, facebook,iit delhi,24.0,25.0,208333.33333333328,2011-04-23,marketing,um,official,"Gibson, Miss. Dorothy Winifred",1979-08-21,normal
+360.0,"Canavan, Mr. Patrick",male,twitter,iit mumbai,17.0,9.0,75000.0,2011-04-24,accounts,um,rented,"Carrau, Mr. Jose Pedro",1979-08-22,funny
+103.0,"Palsson, Master. Paul Folke",male, linkedin,iit roorkee,23.0,2.0,16666.666666666664,2011-04-25,hr,um,own house,"Frauenthal, Mr. Isaac Gerald",1979-08-23,aggressive
+113.0,"Payne, Mr. Vivian Ponsonby",male, twitter.com,uneducated,22.0,23.0,191666.66666666672,2011-04-26,head,d,official,"Nourney, Mr. Alfred (Baron von Drachstedt"")""",1979-08-24,good
+302.0,"Lines, Mrs. Ernest H (Elizabeth Lindsey James)",female, facebook.com,m.tech,8.0,22.0,183333.33333333328,2011-04-27,worker,m,rented,"Ware, Mr. William Jeffery",1979-08-25,bad
+456.0,"Abbott, Master. Eugene Joseph",male, instagram,be,0.0,3.0,25000.0,2011-04-28,worker,um,own house,"Widener, Mr. George Dunton",1979-08-26,normal
+295.0,"Gilbert, Mr. William",male, facebook,me,22.0,8.0,66666.66666666666,2011-04-29,senior level,m,official,"Riordan, Miss. Johanna Hannah""""",1979-08-27,funny
+262.0,"Kink-Heilmann, Mr. Anton",male,twitter,iit delhi,17.0,22.0,183333.33333333328,2011-04-30,it,um,rented,"Nourney, Mr. Alfred (Baron von Drachstedt"")""",1979-08-28,aggressive
+73.0,"Smith, Mrs. Lucien Philip (Mary Eloise Hughes)",female, linkedin,iit mumbai,10.0,24.0,200000.0,2011-05-01,marketing,um,own house,"Palsson, Master. Paul Folke",1979-08-29,good
+192.0,"Colbert, Mr. Patrick",male, twitter.com,iit roorkee,5.0,20.0,166666.6666666667,2011-05-02,it,m,official,"Payne, Mr. Vivian Ponsonby",1979-08-30,bad
+498.0,"Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)",female, facebook.com,mca,23.0,24.0,200000.0,2011-05-03,it,um,rented,"Lines, Mrs. Ernest H (Elizabeth Lindsey James)",1979-08-31,normal
+212.0,"Larsson-Rondberg, Mr. Edvard A",male, instagram,mba,4.0,13.0,108333.33333333331,2011-05-04,marketing,um,own house,"Abbott, Master. Eugene Joseph",1979-09-01,funny
+3.0,"Conlon, Mr. Thomas Henry",male, facebook,bca,3.0,24.0,200000.0,2011-05-05,accounts,um,rented,"Gilbert, Mr. William",1979-09-02,aggressive
+232.0,"Bonnell, Miss. Caroline",female,twitter,b.tech,0.0,21.0,175000.0,2011-05-06,hr,d,own house,"Kink-Heilmann, Mr. Anton",1979-09-03,good
+121.0,"Gale, Mr. Harry",male, linkedin,bba,22.0,9.0,75000.0,2011-05-07,head,m,official,"Smith, Mrs. Lucien Philip (Mary Eloise Hughes)",1979-09-04,bad
+377.0,"Gibson, Miss. Dorothy Winifred",female, twitter.com hello I love to use twitter and facebook this is my passion,ba,19.0,5.0,41666.66666666667,2011-05-08,worker,um,rented,"Colbert, Mr. Patrick",1979-09-05,normal
+14.0,"Carrau, Mr. Jose Pedro",male,twitter facebook instagram,ma,23.0,24.0,200000.0,2011-05-09,worker,um,own house,"Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)",1979-09-06,funny
+191.0,"Frauenthal, Mr. Isaac Gerald",male,twitter facebook instagram,phd,16.0,13.0,108333.33333333331,2011-05-10,senior level,m,official,"Larsson-Rondberg, Mr. Edvard A",1979-09-07,aggressive
+342.0,"Nourney, Mr. Alfred (Baron von Drachstedt"")""",male,instagram,10th,13.0,3.0,25000.0,2011-05-11,it,um,rented,"Conlon, Mr. Thomas Henry",1979-09-08,good
+99.0,"Ware, Mr. William Jeffery",male,facebook,12th,10.0,13.0,108333.33333333331,2011-05-12,marketing,um,own house,"Bonnell, Miss. Caroline",1979-09-09,bad
+208.0,"Widener, Mr. George Dunton",male,linkedin,uneducated,8.0,3.0,25000.0,2011-05-13,it,um,official,"Gale, Mr. Harry",1979-09-10,normal
+303.0,"Riordan, Miss. Johanna Hannah""""",female,nothing,m.tech,3.0,14.0,116666.66666666669,2011-05-14,it,d,rented,"Gibson, Miss. Dorothy Winifred",1979-09-11,funny
